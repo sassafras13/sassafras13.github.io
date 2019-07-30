@@ -27,12 +27,12 @@ The results of the steady state error equation can also be used to help us deter
 
 What if you want to find the steady state error contribution from a disturbance input? I have shown the block diagram for a disturbance input and the derivation of the equation for steady state error in the figure below. Notice that I went back to the fundamentals shown in Equation 1 to get the equation for steady state error as a function of contributions from both the reference signal and the disturbance signal. 
 
-![Fig 4]({{ site.baseurl }}/images/2019-07-30-SteadyStateError-Fig4.JPG "Figure 4"){:width=”500px”}  
+![Fig 4]({{ site.baseurl }}/images/2019-07-30-SteadyStateError-Fig4.jpg "Figure 4"){:width=”500px”}  
 **Figure 1**
 
 We also made an important assumption in our discussion up to this point: we assumed that we had unity feedback because it simplified the math. However, we often have _non-unity_ feedback because sensor noise and system dynamics can contribute to the feedback path of our system. In these cases, it is helpful to apply the trick demonstrated below to re-draw the block diagram as a unity feedback system. I have worked out some of the math alongside the diagrams. 
 
-![Fig 5]({{ site.baseurl }}/images/2019-07-30-SteadyStateError-Fig5.JPG "Figure 5"){:width=”500px”}  
+![Fig 5]({{ site.baseurl }}/images/2019-07-30-SteadyStateError-Fig5.jpg "Figure 5"){:width=”500px”}  
 **Figure 2**
 
 Now that we have this concept in hand, next time we will work through an example of the design process to meet steady state and transient performance requirements using root locus plots. 
