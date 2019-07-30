@@ -7,7 +7,7 @@ I am really excited to be writing this post because I have been working on my un
 
 A quick note before we start: it helps to have some knowledge of fluid dynamics in order to understand the Scallop Theorem. I will follow up with some additional posts that communicate the derivations for Reynolds number and the Navier-Stokes equations for incompressible fluids. I should also mention that I am writing this post in preparation for my qualifying exams, so I have added a draft of one of my key figures to this post to help communicate the Scallop Theorem, see Figure 1. 
 
-![Fig 1]({{ site.baseurl }}/images/20190730-fig1.jpg "Figure 1"){:width="500px"}  
+![Fig 1]({{ site.baseurl }}/images/2019-07-30-Fig1.png "Figure 1"){:width="500px"}  
 **Figure 1, [3] - [7]**
 
 For now, let’s start with a ratio called the Reynolds number. Reynolds’ number describes the ratio of the inertial to viscous forces acting on an object in a fluid flow [1],[2]. I will not go into the derivation of Reynolds’ number here, but Figure 1 shows the equation where [1]: 
@@ -31,7 +31,7 @@ Are you with me so far? I am about to take a step that Purcell does not take in 
 
 So let’s go back to the configuration space for the scallop. Unfortunately, it is a one dimensional space, so we cannot even use Stokes’ Theorem to calculate its net displacement, because it does not have a net displacement for any gait in a low Reynolds number regime! However, if you look at the three-link swimmer, you can see that it does have a two dimensional configuration space, and we can draw an ellipse to describe a gait in this space, as shown in Figure 1. Then, using Choset and Hatton’s technique, we can calculate the net displacement that the three-link swimmer will achieve using this gait. For fun, I can also show you a video of the three-link swimmer moving through space, which I created in MATLAB. 
 
-![Fig 2]({{ site.baseurl }}/images/20190730-fig2.gif "Figure 2"){:width="500px"}  
+![Fig 2]({{ site.baseurl }}/images/2019-07-30-Fig2.gif "Figure 2"){:width="500px"}  
 **Figure 2**
 
 #### References 
