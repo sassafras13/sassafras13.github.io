@@ -12,10 +12,10 @@ A quick note before we start: it helps to have some knowledge of fluid dynamics 
 
 For now, let’s start with a ratio called the Reynolds number. Reynolds’ number describes the ratio of the inertial to viscous forces acting on an object in a fluid flow [1],[2]. I will not go into the derivation of Reynolds’ number here, but Figure 1 shows the equation where [1]: 
 
-**rho** = density of the fluid 
-**V** = velocity of the fluid around the object
-**L** = characteristic length of the object
-**mu** = dynamic viscosity of the fluid
+**rho** = density of the fluid   
+**V** = velocity of the fluid around the object  
+**L** = characteristic length of the object  
+**mu** = dynamic viscosity of the fluid  
 
 We can calculate the Reynolds number to describe the ratio of forces that any object will experience in a fluid flow. For example, a human has a Reynolds number on the order of 10<sup>^4</sup> [1]. A goldfish has a Reynolds number of 10<sup>^2</sup> [1]. But for bacteria, or the microswimmers that I work with in my research, their Reynolds numbers are MUCH smaller, on the order of 10<sup>^-5</sup> [1]! 
 
