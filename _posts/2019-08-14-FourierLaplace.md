@@ -21,5 +21,5 @@ We can describe second order systems as a sinusoidal wave contained inside an en
 
 ![Fig 4]({{ site.baseurl }}/images/2019-08-14-laplace.png "Equation 4"){:width=100%}  
 
-####References
+#### References  
 [1] Douglas, Brian. “Control Systems Lectures - Time and Frequency Domain.” <https://www.youtube.com/watch?v=noycLIZbK_k&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=3> Visited on 08/13/2019. 
