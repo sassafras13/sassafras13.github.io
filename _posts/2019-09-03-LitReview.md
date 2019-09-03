@@ -1,3 +1,8 @@
+---
+layout: post
+title: Staying on Top of the Literature
+---
+
 I recently have been talking to some of my colleagues about how to do literature reviews effectively, and I thought it might be useful to share the techniques that I have been using over the past year. I'd like to say right away that I am definitely not an expert (I have never even written a literature review article!) but I've tried many different things and I thought those adventures might be worth sharing. I also noticed that I couldn't find any articles like this one when I was trying to teach myself how to do a literature review - that is, no one was sharing the activities they actually did on a regular basis to stay up to date on the literature. I'm sure most of us don't need a perfectly rigorous method, but all of us just need to have some means of staying abreast of the key developments in our field. This article is meant to share what I have been doing because I have found it possible to do these things regularly, and I also want to start a conversation with my colleagues because I think I can improve this in many ways. 
 
 When I started as a grad student, I read and watched a couple different sources on how to do literature reviews. I would recommend 
