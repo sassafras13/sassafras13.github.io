@@ -40,7 +40,7 @@ Figure 4 - Example 3
 
 ### Example 4: Simple Pendulum [1] 
 
-This example is not particularly exciting but I wanted to include it because I don’t want to embarrass myself on the exam by not being able to solve it if I am asked to do so. Notice that I linearize the equation here by making a small angle approximation, but I outlined the more rigorous way to linearize an equation [in a previous post.] (https://sassafras13.github.io/Linearization/)
+This example is not particularly exciting but I wanted to include it because I don’t want to embarrass myself on the exam by not being able to solve it if I am asked to do so. Notice that I linearize the equation here by making a small angle approximation, but I outlined the more rigorous way to linearize an equation [in a previous post](https://sassafras13.github.io/Linearization/).
 
 ![Fig 5]({{ site.baseurl }}/images/2019-09-24-EoM-fig5.png "Figure 5"){:width=75%}
 Figure 5 - Example 4
