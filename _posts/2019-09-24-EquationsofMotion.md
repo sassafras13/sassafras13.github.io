@@ -5,12 +5,12 @@ title: How to Derive Equations of Motion
 
 Although I do not think it is going to play a major role in our upcoming controls qualifying exam, I realized that I could not remember how to derive the equations of motion for some simple systems. Here I am going to present some examples out of the undergraduate textbook [1] and in a future post I would like to focus on something a little more challenging, like the levitating magnetic ball. 
 
-The basic approach to deriving the equations of motion for any system is:    
+The basic approach to deriving the equations of motion for any system is [1]:    
 **(1)** Pick a convenient coordinate system (it should make the math easy).      
 **(2)** Determine the forces using a free body diagram.       
 **(3)** Solve for the equations of motion.     
 
-We can subsequently apply the Laplace transform (or assume that the solution to the differential equation takes the form shown below) and obtain the equation of motion in the frequency domain. This expression can be rearranged to obtain the transfer function. I explain this process in detail in the examples below. 
+We can subsequently apply the Laplace transform (or assume that the solution to the differential equation takes the form shown below) and obtain the equation of motion in the frequency domain [1]. This expression can be rearranged to obtain the transfer function [1]. I explain this process in detail in the examples below. 
 
 ![Eqn 1]({{ site.baseurl }}/images/2019-09-24-EoM-eqn1.png "Equation 1"){:width=100%}
 
