@@ -25,5 +25,5 @@ This is where I was confused before I wrote this post. In solving our practice e
 ![Eqn 3]({{ site.baseurl }}/images/2019-09-30-LinearizingExample-eqn3.png "Equation 3"){:width=100%}
 
 #### References: 
-[1] Quanser. “Modeling Documentation: QUBE-SERVO 2 Inverted Pendulum.”
+[1] Quanser. “Modeling Documentation: QUBE-SERVO 2 Inverted Pendulum.”      
 [2] Quanser. “QUBE-SERVO 2 Workbook - Student.” 
