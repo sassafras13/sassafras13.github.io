@@ -1,0 +1,15 @@
+---
+layout: post
+title: Lead Compensator Design with Root Locus Plots
+---
+
+This might be my last post...on control theory. For now, anyway. My qual is in a couple hours but I just finished reviewing lag and lead compensator design with root locus plots so I wanted to capture that in a quick post. All information for this post came from Nise [1]. 
+
+Both lead and lag compensators use a pole-zero pair on the real axis to alter the system’s behavior. Much like in [Bode plot design](https://sassafras13.github.io/LeadLagBode/), a lag compensator is designed to have minimal effect on the gain and location of the system’s closed loop poles. Instead, lag compensators are designed to improve the steady state performance of the system. Lag compensators put their pole and zero pair very close to each other near the origin so as to not disturb the overall system design. The ratio between the zero and pole multiplies the steady state error by some factor. So if the zero is larger than the pole, the ratio reduces the steady state error. The pole and zero can both be very close to the origin but they can have a ratio of 10 or more if the pole is at 0.01 and the zero is at 0.1. 
+
+On the other hand, lead compensators are designed to intentionally change the shape of the root locus (and therefore the transient response). Note that we tend to not want to design pure derivative controllers because they tend to amplify high frequency noise which affects the overall signal. A lead compensator has a high frequency breakpoint as well as a low frequency breakpoint which means it will not amplify infinitely high frequency signals. Typically for a lead compensator we put the zero near the natural frequency of the system, and then the pole is placed further to the left, anywhere from 5 to 20 times away. You can use trigonometry to determine the ideal pole placements based on your system specifications. 
+
+#### References: 
+
+[1] Nise, Norman S. **Control Systems Engineering, 4th Ed.** John Wiley & Sons, Inc. 2004. 
+
