@@ -13,7 +13,7 @@ Let’s start by discussing git-flow, and then discuss the changes that Github-f
 
 This workflow was first formally introduced by Vincent Driessen in [3], and I recommend that you look at his post for more detailed explanations of how to perform git-flow tasks in the command line. The workflow centers on using branches within git for different purposes. Branches are copies of the codebase that are still tracked in the same repository, but contain different features. We will go through each type of branch used in git-flow in detail. These different branches (and how they are related) are shown in Figure 1. Only the master and development branches must exist for the lifetime of the project. In git-flow, we are also allowed three types of branches that only exist for a limited period of time: features, release and hot-fix branches exist long enough to complete a specific task [3]. The key takeaway is that, as a coder, you should only ever be concerned about the master and development branches, and whatever feature/hot-fix/release branch you are currently working on. 
 
-![Fig 1]({{ site.baseurl }}/images/2020-03-24-fig1.png "Figure 1"){:width=75%}
+![Fig 1]({{ site.baseurl }}/images/2020-03-24-fig1.png "Figure 1"){:width=75%}      
 Figure 1 (Source [1])
 
 ### Master Branch
@@ -50,7 +50,7 @@ As you are working on feature branches, it's likely that the development branch 
 
 This concludes my 2-post series on the fundamentals of using git. I hope that as I continue to use it that I will learn more, and I welcome your comments and suggestions as well. 
 
-As a side note, some of Paul Graham’s essays on his [webpage](http://www.paulgraham.com/) and in his book, **Hackers and Painters**, discuss the benefits of working on web-based applications. He was one of the pioneers of the approach when he led a startup during the dot-com boom that eventually became Yahoo! Store. 
+*As a side note, some of Paul Graham’s essays on his [webpage](http://www.paulgraham.com/) and in his book, **Hackers and Painters**, discuss the benefits of working on web-based applications. He was one of the pioneers of the approach when he led a startup during the dot-com boom that eventually became Yahoo! Store. 
 
 ## References: 
 
