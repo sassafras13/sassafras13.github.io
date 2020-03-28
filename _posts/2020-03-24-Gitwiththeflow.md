@@ -54,6 +54,6 @@ This concludes my 2-post series on the fundamentals of using git. I hope that as
 
 ## References: 
 
-[1] Hileman, J. “Changing history, or How to Git pretty.” 3 November 2011. <http://justinhileman.info/article/changing-history/> Visited 03/20/2020. 
-[2] Chacon, S. “GitHub Flow.” 31 August, 2011. <http://scottchacon.com/2011/08/31/github-flow.html> Visited 03/20/2020. 
+[1] Hileman, J. “Changing history, or How to Git pretty.” 3 November 2011. <http://justinhileman.info/article/changing-history/> Visited 03/20/2020.      
+[2] Chacon, S. “GitHub Flow.” 31 August, 2011. <http://scottchacon.com/2011/08/31/github-flow.html> Visited 03/20/2020.       
 [3] Driessen, V. “A successful Git branching model.” 5 January, 2010. <https://nvie.com/posts/a-successful-git-branching-model/> Visited 03/20/2020.
