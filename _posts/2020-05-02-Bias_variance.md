@@ -18,12 +18,12 @@ When our model underfits or overfits to the data, that can be an indication if o
 **(1)** Training error: As the degree of the hypothesis **increases**, the training error should **decrease** because our model will get better at fitting to the data set.     
 **(2)** Cross-validation error: As the degree of the hypothesis **increases**, the cross-validation error will **decrease** to a certain extent, but then start to **increase** as the degree continues to increase. (Intuitively this might make sense if you think about the degree of the hypothesis polynomial as Goldilocks’ porridge. Make the degree too low, and the hypothesis will underfit, which will yield large errors; too high and the hypothesis will start to overfit and also have large error. The cross-validation error will only be low when the degree of the hypothesis is “just right.”)     
 
-![Fig 1]({{ site.baseurl }}/images/2020-05-02-Bias_variance-fig1.png "Figure 1"){:width=75%}
+![Fig 1]({{ site.baseurl }}/images/2020-05-02-Bias_variance_fig1.png "Figure 1"){:width=75%}
 Figure 1 - Inspired by [1]
 
 These ideas are illustrated in Figure 2 below where we can see how the training error and cross-validation (CV) errors change with the degree of the hypothesis. 
 
-![Fig 2]({{ site.baseurl }}/images/2020-05-02-Bias_variance-fig2.png "Figure 2"){:width=75%}
+![Fig 2]({{ site.baseurl }}/images/2020-05-02-Bias_variance_fig2.png "Figure 2"){:width=75%}
 Figure 2 - Inspired by [1]
 
 ## Using Regularization to Avoid Overfitting
@@ -43,14 +43,14 @@ How would the learning curve look for a model that has high bias (i.e. is underf
 
 What happens when we calculate the error for a model with high bias during cross-validation (or testing)? (Note that the trends in error for both cross-validation and test phases are similar [1].) In this case, the cross-validation/test error will initially be very high because the model is encountering new data and needs to adjust its parameters accordingly [1]. However, since the model is still underfit, it will only be able to reduce its error by so much before the poor selection of hypothesis polynomial degree prevents it from making further improvements [1]. As the model sees more data points, the error will plateau at a high value [1]. All of this is shown in Figure 3. 
 
-![Fig 3]({{ site.baseurl }}/images/2020-05-02-Bias_variance-fig3.png "Figure 3"){:width=75%}
+![Fig 3]({{ site.baseurl }}/images/2020-05-02-Bias_variance_fig3.png "Figure 3"){:width=75%}
 Figure 3 - Inspired by [1]
 
 In this situation, where our model is underfit to the data, we can see that acquiring more training data will not improve the situation, because our learning curves have simply plateaued [1]. Instead, we should consider choosing a larger hypothesis polynomial degree (i.e. increasing the number of features we include in our model) [1]. 
 
 What happens in the other case, when the model is overfit and has high variance? In this situation, the training error will again start low and increase with more data points, and the cross-validation/test error will start high and decrease with more data points [1]. The difference this time is that the training error will continue to increase with more data points, and the cross-validation/test error will continue to decrease with more data points [1]. In this situation, acquiring more training data could help improve our model’s performance [1]. This is illustrated in Figure 4. 
 
-![Fig 4]({{ site.baseurl }}/images/2020-05-02-Bias_variance-fig4.png "Figure 4"){:width=75%}
+![Fig 4]({{ site.baseurl }}/images/2020-05-02-Bias_variance_fig4.png "Figure 4"){:width=75%}
 Figure 4 - Inspired by [1]
 
 [1] Ng, A. Machine Learning course, week 6 lecture notes. <https://www.coursera.org/learn/machine-learning/home/week/6> Visited 02 May 2020. 
