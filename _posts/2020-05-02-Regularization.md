@@ -29,5 +29,5 @@ This approach works the same way for both linear and logistic regression, althou
 
 ## References: 
 
-[1] Ng, A. Machine Learning course, week 3 lecture notes on regularization. <https://www.coursera.org/learn/machine-learning/home/week/3> Visited 05 May 2020. 
+[1] Ng, A. Machine Learning course, week 3 lecture notes on regularization. <https://www.coursera.org/learn/machine-learning/home/week/3> Visited 02 May 2020. 
 
