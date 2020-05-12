@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graph Networks: Putting It All Together
+title: Graph Networks - Putting It All Together
 ---
 
 This is the third post in a [series on graph networks](https://sassafras13.github.io/GNs/), based on a recent paper by researchers at DeepMind [1]. So far we have discussed the motivation for why graph networks are useful for advancing AI research, and how they work from a probability perspective. Now I am going to briefly explain how the structure of a graph is useful in learning to model real-world processes, and present some of the mathematical framework for how graph networks learn. 
