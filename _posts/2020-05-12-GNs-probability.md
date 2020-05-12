@@ -35,7 +35,7 @@ Okay, so a hidden Markov model (HMM) is a statistical model of a Markov process,
 
 Let me give another example with Jorge and Fatima. Jorge and Fatima are friends and they talk every day [4]. Every day, Fatima tells Jorge if she went for a walk, went shopping or cleaned her apartment, and her decision of what activity to pursue is driven by the weather [4]. Jorge only knows that, in general, it is either sunny or raining, but he does not know the exact weather patterns every day [4]. Since he cannot observe the weather directly, Jorge must guess what the weather is based on what he knows about Fatima’s daily activities [4]. This is captured in Figure 1 below. In this situation, we are modeling the joint probability distribution of different weather events by explicitly considering the conditional independence of Fatima’s daily activities. Such a model can be solved using different approaches, one of which is called the Viterbi algorithm [4].* 
 
-![Fig 1]({{ site.baseurl }}/images/2020-05-12-GNs-probability-fig1.svg "Figure 1"){:width=75%}     
+![Fig 1]({{ site.baseurl }}/images/2020-05-12-GNs-probability-fig1.png "Figure 1"){:width=75%}     
 Figure 1 - Source [7]    
 
 We can think of a graph as representing joint probability distributions using conditional independence, and this is useful because it agrees well with how events are related in the real world [1]. The DeepMind paper argues that reasoning about these “sparse dependencies between random variables” is an efficient computational approach [1]. In my next post, I will discuss some of the unique properties of graphs that make them useful tools for representing these real-world processes. 
