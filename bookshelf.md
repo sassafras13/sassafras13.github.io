@@ -3,10 +3,34 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-This page lists the books I have read and some of my thoughts on each of them. Reading is one of my favorite ways of learning something new and exploring new worlds. Sometimes it's just a great way to take a break from the real world. 
+This page lists the books I have read and, occasionally, some reflections on what they taught me. Reading is one of my favorite ways to learn something new and see the world through other peoples' eyes. 
 
-* **Educated** by Tara Westover -- This book has skyrocketed to my top 5 favorite books of all time. Westover describes her upbringing in rural Idaho, cut off by her zealous parents from public education and modern medicine, and the journey she took to become a Cambridge-educated historian. Westover also describes the terrible abuse she suffered at the hands of an older brother, and the heart-wrenching decision she took to separate from her family when they would not acknowledge the wrongness of her brother's actions. These storylines made for a thrilling read that I obsessively returned to every evening, but what I appreciated most about this book was the prose itself. Westover describes herself at one point in the book as someone with a quiet, mature perspective on the events around her, and that emerges powerfully in her writing. She articulated things that I have always known to be true, but have never been able to speak aloud. She analyzed and synthesized the events of her childhood into universal lessons that were as true for me as they were for her. I admire Westover's ability to review the dramatic moments of her life, to understand them without judgement, and to find the answers in herself for how she would respond to them. I will probably start re-reading this book immediately now that I have finished it. 
+**Update 7 June 2020:** I wanted to call myself out for having a list that is dominated by white male authors. In fact, the only books on this list that are not written by white men were given to me by a good friend of mine who is much more aware of _who_ writes the books that she reads than I am. I am calling attention to this fact because I am going to change my reading habits to focus especially on BIPOC writers. I will be drawing heavily from books on [this list](https://www.latimes.com/entertainment-arts/books/story/2020-06-04/13-nonfiction-books-to-read-during-george-floyd-protests) and others - I am always open to recommendations. 
 
-* **I Am Malala** by Malala Yousafzai with Christina Lamb -- We have all heard about Malala, the girl who was shot by the Taliban for being an outspoken advocate for educating women in Pakistan. She is the youngest recipient of the Nobel Peace Prize and continues to be a passionate defender of the right to education for women, even though she and her family were forced to relocate to the UK after the attack. I was inspired by her clear-eyed and determined arguments for educating women in her book; I also enjoyed having a glimpse into life in rural Pakistan as told by a native who was my own age. The book opens with Malala's family history and travels forwards in time to the moment she was shot in the face in 2012. Along the way, we learn about the food Malala's family eats, we see the mountains and the rivers through her eyes, we travel to Islamabad and see it as the metropolis that it is in comparison with Swat, where Malala lives. Years ago I read several of Christina Lamb's books on the region - **The Sewing Circles of Herat** and **Goodbye Kabul** - and thoroughly enjoyed them. However, neither had quite the same flavor as Malala's writings, since Christina is still an outsider like me whereas Malala is a born, proud Pakistani woman who enjoys sharing her culture with the reader. Moreover, Malala is my contemporary and it is both jarring and hilarious to encounter references to the Twilight books - books I also was obsessed with at the same time, but oceans away, in North America. Even if you already know the story of the Taliban attack on Malala, I would still highly recommend reading this book so that you can discover the vibrant world that Malala comes from, and the drive behind her campaign for educating women globally.
+## 2020
 
-* **The Hardware Hacker** by Andrew "bunnie" Huang -- A thoughtful, wide-ranging exploration of different topics from engineering, biology and manufacturing. I loved the author's willingness to ask questions and investigate - his curiosity is infectious and it also pays off in a very well written, informative book. I would recommend this book to anyone interested in manufacturing, China as an industrial giant, open source legal issues, detective work and looking at DNA as a computer program. 
+* **An Astronaut's Guide to Life on Earth** by Col. Chris Hadfield
+
+* **Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers** by Andy Greenberg
+
+* **The Checklist Manifesto** by Atul Gawande
+
+* **Nonviolent Communication** by Marshall B. Rosenberg, PhD
+
+* **Hackers & Painters: Big Idea from the Computer Age** by Paul Graham
+
+## 2019
+
+* **Failure is not an Option** by Gene Krantz
+
+* **Fields of Fire** by Marko Kloos (I love space operas and Marko Kloos has a great series that he's working on right now.)
+
+* **Kidding Ourselves: Breadwinning, Babies and Bargaining Power** by Rhona Mahony (I highly recommend this book to every woman I know, especially young women who are not yet at the stage where they have to balance family and career. It was written in the 90's, though so there are a lot of perspectives that are outdated. For instance, it is mainly written for cis, heterosexual relationships.) 
+
+* **Becoming** by Michelle Obama
+
+* [**Educated**](https://sassafras13.github.io/BookReviews/) by Tara Westover 
+
+* [**I Am Malala**](https://sassafras13.github.io/BookReviews/) by Malala Yousafzai with Christina Lamb 
+
+* [**The Hardware Hacker**](https://sassafras13.github.io/BookReviews/) by Andrew "bunnie" Huang 
