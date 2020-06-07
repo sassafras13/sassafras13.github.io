@@ -18,7 +18,7 @@ There is another motivator for this blog post: I want to explain why I decided t
 
 Like many white people of privilege, I am trying to figure out how to fight for the long haul, and I believe that if Joe Biden won the presidential election in 2020, then he _will_ "act on reform" and contribute to improving racial equality in the US. Because of this belief, I will keep making phone calls. And I will share this post mainly for my white friends as a suggestion that this is one way they can help, too. 
 
-Lastly, please understand that I am not writing this post because I want to value-signal my allyship instead of actually doing something to promote racial equality in the US. If you feel that I am, please write to me and tell me your thoughts. I will listen and engage with you. This is a moment in history when white people need to listen to BIPOC. I want to help by learning how to have the difficult conversations that we white people have been avoiding for 400 years.   
+Lastly, please understand that I am not writing this post because I want to value-signal my allyship instead of actually doing something to promote racial equality in the US. If you feel that I am, please write to me and tell me your thoughts. I will listen and engage with you. White people need to listen to BIPOC. I want to help by learning how to have the difficult conversations that we white people have been avoiding for 400 years.   
 
 ## References: 
 [1] Maxouris, C. and Ahmed, S. "Alexandria Ocasio-Cortez's campaign shoes to join museum exhibition." CNN Style. 22 Nov 2018. <https://www.cnn.com/style/article/alexandria-ocasio-cortez-shoes-style-trnd/index.html> Visited 07 Jun 2020.
