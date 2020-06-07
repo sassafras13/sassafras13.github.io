@@ -17,7 +17,7 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 * **Nonviolent Communication** by Marshall B. Rosenberg, PhD
 
-* **Hackers & Painters: Big Idea from the Computer Age** by Paul Graham
+* **Hackers & Painters: Big Ideas from the Computer Age** by Paul Graham
 
 ## 2019
 
