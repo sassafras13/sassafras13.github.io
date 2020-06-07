@@ -14,7 +14,7 @@ In those roughly 10 conversations that I had, I think only 1 of them may have en
 
 There is another motivator for this blog post: I want to explain why I decided to make phone calls for Joe Biden in the first place. I did it because of the current protests against racial injustice in the US. We are at a point in history where we have momentum to fight for racial equality, and it is going to be a long fight. As former President Barack Obama wrote in his inspiring Medium article this week [7]:
 
-**So the bottom line is this: if we want to bring about real change, then the choice isn’t between protest and politics. _We have to do both._ We have to mobilize to raise awareness, _and_ we have to organize and cast our ballots to make sure that we elect candidates who will act on reform.**
+**"So the bottom line is this: if we want to bring about real change, then the choice isn’t between protest and politics. _We have to do both._ We have to mobilize to raise awareness, _and_ we have to organize and cast our ballots to make sure that we elect candidates who will act on reform."** [7]
 
 Like many white people of privilege, I am trying to figure out how to fight for the long haul, and I believe that if Joe Biden won the presidential election in 2020, then he _will_ "act on reform" and contribute to improving racial equality in the US. Because of this belief, I will keep making phone calls. And I will share this post mainly for my white friends as a suggestion that this is one way they can help, too. 
 
