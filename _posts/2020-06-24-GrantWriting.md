@@ -1,5 +1,5 @@
 ---
-title: A Reflection on Writing My First Grant
+title: A Reflection on Writing My First Grant Proposal
 layout: post
 ---
 
