@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **Just Mercy** by Bryan Stevenson
+
+* **I Will Teach You to be Rich** by Ramit Sethi
+
 * **An Astronaut's Guide to Life on Earth** by Col. Chris Hadfield
 
 * **Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers** by Andy Greenberg
