@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **So You Want to Talk About Race** by Ijeoma Oluo
+
 * **Just Mercy** by Bryan Stevenson
 
 * **I Will Teach You to be Rich** by Ramit Sethi
