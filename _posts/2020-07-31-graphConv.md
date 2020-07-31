@@ -123,8 +123,12 @@ Okay, so in this post we have learned how graph convolution works and how Kipf a
 **I won’t go into detail on Chebyshev polynomials here beyond saying that they are frequently used to approximate other functions [5]. They have a nice property where Chebyshev polynomials have roots that we can use to fit them to polynomial functions, which is why they are so useful for approximations [5]. 
 
 #### References: 
-[1] M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling Relational Data with Graph Convolutional Networks,” in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10843 LNCS, pp. 593–607.
-[2] T. N. Kipf and M. Welling, “Semi-Supervised Classification with Graph Convolutional Networks,” 5th Int. Conf. Learn. Represent. ICLR 2017 - Conf. Track Proc., Sep. 2016.
-[3] N. De Cao and T. Kipf, “MolGAN: An implicit generative model for small molecular graphs,” arXiv Prepr. arXiv 1805.11973, May 2018.
-[4] “Graph Fourier Transform.” Wikipedia. <https://en.wikipedia.org/wiki/Graph_Fourier_Transform> Visited 30 Jul 2020. 
-[5] “Chebyshev polynomials.” Wikipedia. <https://en.wikipedia.org/wiki/Chebyshev_polynomials> Visited 30 Jul 2020. 
+[1] M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling Relational Data with Graph Convolutional Networks,” in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10843 LNCS, pp. 593–607.   
+
+[2] T. N. Kipf and M. Welling, “Semi-Supervised Classification with Graph Convolutional Networks,” 5th Int. Conf. Learn. Represent. ICLR 2017 - Conf. Track Proc., Sep. 2016.    
+
+[3] N. De Cao and T. Kipf, “MolGAN: An implicit generative model for small molecular graphs,” arXiv Prepr. arXiv 1805.11973, May 2018.    
+
+[4] “Graph Fourier Transform.” Wikipedia. <https://en.wikipedia.org/wiki/Graph_Fourier_Transform> Visited 30 Jul 2020.    
+
+[5] “Chebyshev polynomials.” Wikipedia. <https://en.wikipedia.org/wiki/Chebyshev_polynomials> Visited 30 Jul 2020.    
