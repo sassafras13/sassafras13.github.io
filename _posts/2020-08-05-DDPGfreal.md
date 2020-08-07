@@ -13,7 +13,8 @@ The actor-critic structure has two models: (1) the **critic** updates the value 
 
 Here is a very basic algorithm to show how the actor and critic work together to learn the value function and the policy simultaneously [1]: 
 
-Alg 1
+![Alg 1]({{ site.baseurl }}/images/2020-08-05-DDPGfreal-alg1.png "Algorithm 1"){:width=75%}     
+Algorithm 1   
 
 Now that we have some intuition for how the actor-critic concept works, let’s look at how off-policy policy gradient methods work. 
 
