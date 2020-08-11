@@ -74,7 +74,7 @@ It might be interesting to note that, while the noise could be any stochastic fu
 
 So now we should have some intuitive understanding of how DDPG works. We have seen how it combines ideas from DQN and DPG methods, and then makes use of several useful tools to make it possible to train neural networks to learn following this novel algorithm. The full DDPG algorithm is shown here [1]: 
 
-![Alg 1]({{ site.baseurl }}/images/2020-08-07-DDPGfinally-alg1.png "Algorithm 1"){:width=75%}      
+![Alg 1]({{ site.baseurl }}/images/2020-08-05-DDPGfinally-alg1.png "Algorithm 1"){:width=75%}      
 Algorithm 1        
 
 ## Tying DDPG Back to MolGAN
