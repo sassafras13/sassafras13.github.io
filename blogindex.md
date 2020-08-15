@@ -25,6 +25,8 @@ Posts related to the 2018 paper by De Cao and Kipf on MolGAN, a graph GAN that g
 
 * [Building Up to DDPG](https://sassafras13.github.io/DDPGfreal/)
 
+* [DDPG and MolGAN, Finally](https://sassafras13.github.io/DDPGfinally/)
+
 
 ### The Silver Challenge
 Daily reflections on the RL course taught by David Silver. 
@@ -39,6 +41,15 @@ Daily reflections on the RL course taught by David Silver.
 
 * [The Silver Challenge - Lecture 5](https://sassafras13.github.io/Silver5/)
 
+* [The Silver Challenge - Lecture 6](https://sassafras13.github.io/Silver6/)
+
+* [The Silver Challenge - Lecture 7](https://sassafras13.github.io/Silver7/)
+
+* [The Silver Challenge - Lecture 8](https://sassafras13.github.io/Silver8/)
+
+* [The Silver Challenge - Lecture 9](https://sassafras13.github.io/Silver9/)
+
+* [The Silver Challenge - Lecture 10](https://sassafras13.github.io/Silver10/)
 
 ### The Grad Student Meta-Game
 Skills I am learning while in grad school. 
@@ -82,6 +93,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 * [The Reparameterization Trick](https://sassafras13.github.io/ReparamTrick/)
 
 * [Binary Cross-Entropy](https://sassafras13.github.io/BiCE/)
+
+* [The Gumbel-Softmax Distribution](https://sassafras13.github.io/GumbelSoftmax/)
 
 #### Variational Autoencoders
 
