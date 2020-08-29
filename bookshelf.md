@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **Dune** by Frank Herbert
+
 * **Born a Crime** by Trevor Noah
 
 * **Becoming** by Michelle Obama 
