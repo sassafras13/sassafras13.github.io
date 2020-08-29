@@ -200,6 +200,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 
 * [Designing Lead and Lag-Lead Compensators with Bode Plots](https://sassafras13.github.io/LeadLagBode/)
 
+* [Control Theory Grab Bag and MPC](https://sassafras13.github.io/ControlTheoryBasics/)
+
 
 ## Microswimmer Research
 Things I have learned while building and controlling microswimmers in the lab. 
