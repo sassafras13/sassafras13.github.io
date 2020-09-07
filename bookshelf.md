@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **Degrees of Difference: Reflections of Women of Color on Graduate School** edited by Kimberly D. McKee and Denise A. Delgado
+
 * **Dune** by Frank Herbert
 
 * **Born a Crime** by Trevor Noah
