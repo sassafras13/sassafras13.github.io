@@ -110,7 +110,7 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Probability and Graph Networks](https://sassafras13.github.io/GNs-probability/)
 
-* [Graph Networks - PUtting It All Together](https://sassafras13.github.io/GNs-graph-theory/)
+* [Graph Networks - Putting It All Together](https://sassafras13.github.io/GNs-graph-theory/)
 
 #### Filtering
 
@@ -127,6 +127,10 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 * [Review of "Entity Abstraction", Part 2](https://sassafras13.github.io/EntAbs2/)
 
 * [Review of "Entity Abstraction", Part 3](https://sassafras13.github.io/EntAbs3/)
+
+#### Computing Tools
+
+* [Docker Basics](https://sassafras13.github.io/Docker/)
 
 
 ### DNA Basics
