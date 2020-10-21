@@ -132,6 +132,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Docker Basics](https://sassafras13.github.io/Docker/)
 
+* [Docker Best Practices](https://sassafras13.github.io/DockerBestPractices/)
+
 
 ### DNA Basics
 For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics. 
