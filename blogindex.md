@@ -208,6 +208,12 @@ These posts were written while studying for the PhD subject qualifying exam in c
 
 * [Control Theory Grab Bag and MPC](https://sassafras13.github.io/ControlTheoryBasics/)
 
+* [Welcome to Discrete Time](https://sassafras13.github.io/DiscreteTime/)
+
+* [Writing System Dynamics in Discrete Time](https://sassafras13.github.io/DiscTimeSS/)
+
+* [Convex Optimization and MPC](https://sassafras13.github.io/ConvOpt/)
+
 
 ## Microswimmer Research
 Things I have learned while building and controlling microswimmers in the lab. 
