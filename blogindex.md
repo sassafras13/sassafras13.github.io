@@ -96,6 +96,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [The Gumbel-Softmax Distribution](https://sassafras13.github.io/GumbelSoftmax/)
 
+* [Review of "Scene Graph Generation by Iterative Message Passing" by Xu et al.](https://sassafras13.github.io/SceneGraphs/) 
+
 #### Variational Autoencoders
 
 * [ML Bonanza Episode 1 - Basics of VAEs](https://sassafras13.github.io/VAE/)
