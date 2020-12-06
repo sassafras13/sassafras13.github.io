@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **Caste: The Origins of Our Discontents** by Isabel Wilkerson (This is one of the best books I have ever read, I would highly recommend it.)
+
 * **Dune Messiah** by Frank Herbert
 
 * **Degrees of Difference: Reflections of Women of Color on Graduate School** edited by Kimberly D. McKee and Denise A. Delgado
