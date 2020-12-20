@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2020
 
+* **White Fragility** by Robin DiAngelo
+
+* **Wow, No Thank You: Essays** by Samantha Irby 
+
 * **Caste: The Origins of Our Discontents** by Isabel Wilkerson (This is one of the best books I have ever read, I would highly recommend it.)
 
 * **Dune Messiah** by Frank Herbert
