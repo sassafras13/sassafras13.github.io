@@ -9,7 +9,7 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
-* **The Fifth Season** by N.K. Jemison (WOW!)
+* **The Fifth Season** by N.K. Jemisin (WOW!)
 
 ## 2020
 
