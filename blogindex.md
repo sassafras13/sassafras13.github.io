@@ -58,12 +58,6 @@ Skills I am learning while in grad school.
 
 * [How to Conference](https://sassafras13.github.io/HowToConference/)
 
-* [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
-
-* [How to Git](https://sassafras13.github.io/HowtoGit/)
-
-* [Git with the Flow](https://sassafras13.github.io/Gitwiththeflow/)
-
 * [A Reflection on Writing My First Grant Proposal](https://sassafras13.github.io/GrantWriting/)
 
 
@@ -132,13 +126,19 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 #### Computing Tools
 
+* [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
+
+* [How to Git](https://sassafras13.github.io/HowtoGit/)
+
+* [Git with the Flow](https://sassafras13.github.io/Gitwiththeflow/)
+
 * [Docker Basics](https://sassafras13.github.io/Docker/)
 
 * [Docker Best Practices](https://sassafras13.github.io/DockerBestPractices/)
 
 
-### DNA Basics
-For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics. 
+### DNA Nanotechnology
+For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics and maybe even some cool stuff about DNA nanotechnology. 
 
 * [Building Things with DNA](https://sassafras13.github.io/DNA1/)
 
@@ -147,6 +147,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 * [Nitrogenous Bases and DNA](https://sassafras13.github.io/DNA3/)
 
 * [Designing DNA Origami Structures](https://sassafras13.github.io/DesigningDNAOrigamiStructures/)
+
+* [Molecular Dynamics Simulation](https://sassafras13.github.io/MDSims1/)
 
 
 ### Control Theory
