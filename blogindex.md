@@ -8,9 +8,9 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 ## Themes
 
-* [MolGAN Work](###molgan-work)
+* [MolGAN Work](#molgan-work)
 
-* [Miscellaneous](###miscellaneous)
+* [Miscellaneous](#miscellaneous)
 
 ### MolGAN Work
 Posts related to the 2018 paper by De Cao and Kipf on MolGAN, a graph GAN that generates novel molecules. 
