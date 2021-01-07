@@ -4,7 +4,13 @@ title: Blog Index
 permalink: /blogindex/
 ---
 
-This index groups my posts by themes so you can find what you are looking for more easily. 
+This index groups my posts by themes so you can find what you are looking for more easily. The themes are listed here at the top - choose your theme to find the posts that fall under that category. 
+
+## Themes
+
+* [MolGAN Work](###molgan-work)
+
+* [Miscellaneous](###miscellaneous)
 
 ### MolGAN Work
 Posts related to the 2018 paper by De Cao and Kipf on MolGAN, a graph GAN that generates novel molecules. 
