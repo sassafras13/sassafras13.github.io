@@ -8,6 +8,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 ## Themes
 
+* [CS Coding Interview](#cs-coding-interview)
+
 * [MolGAN Work](#molgan-work)
 
 * [The Silver Challenge](#the-silver-challenge)
@@ -35,6 +37,11 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [Social Issues](#social-issues)
 
 * [Miscellaneous](#miscellaneous)
+
+### CS Coding Interview
+Posts on topics that are commonly tested in a coding interview.
+
+* [Linked Lists](https://sassafras13.github.io/LinkedLists/)
 
 ### MolGAN Work
 Posts related to the 2018 paper by De Cao and Kipf on MolGAN, a graph GAN that generates novel molecules. 
