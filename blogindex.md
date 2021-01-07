@@ -10,6 +10,30 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 * [MolGAN Work](#molgan-work)
 
+* [The Silver Challenge](#the-silver-challenge)
+
+* [The Grad Student Meta-Game](#the-grad-student-meta-game)
+
+* [Machine Learning and Artificial Intelligence Topics](#machine-learning-and-artificial-intelligence-topics)
+
+  * [Variational Autoencoders](#variational-autoencoders)
+  
+  * [Introduction to Graph Networks from DeepMind](#introduction-to-graph-networks-from-deepmind)
+  
+  * [Filtering](#filtering)
+  
+  * [Review of Entity Abstraction](#review-of-entity-abstraction)
+
+* [Computing Tools](#computing-tools)
+
+* [DNA Nanotechnology](#dna-nanotechnology)
+
+* [Control Theory](#control-theory)
+
+* [Microswimmer Research](#microswimmer-research)
+
+* [Social Issues](#social-issues)
+
 * [Miscellaneous](#miscellaneous)
 
 ### MolGAN Work
@@ -130,7 +154,7 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Review of "Entity Abstraction", Part 3](https://sassafras13.github.io/EntAbs3/)
 
-#### Computing Tools
+### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
 
@@ -225,7 +249,7 @@ These posts were written while studying for the PhD subject qualifying exam in c
 * [Convex Optimization and MPC](https://sassafras13.github.io/ConvOpt/)
 
 
-## Microswimmer Research
+### Microswimmer Research
 Things I have learned while building and controlling microswimmers in the lab. 
 
 * [Explaining the Scallop Theorem](https://sassafras13.github.io/ScallopTheorem/)
