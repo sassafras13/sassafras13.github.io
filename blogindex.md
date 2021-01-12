@@ -97,6 +97,8 @@ Skills I am learning while in grad school.
 
 * [A Reflection on Writing My First Grant Proposal](https://sassafras13.github.io/GrantWriting/)
 
+* [Reflections and New Goals in the PhD Program in 2021](https://sassafras13.github.io/RandomPhD/)
+
 
 ### Machine Learning and Artificial Intelligence Topics
 Posts that I wrote to teach myself about ideas in ML and AI. 
