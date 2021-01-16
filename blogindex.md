@@ -41,6 +41,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [Hash Tables](https://sassafras13.github.io/HashTables/)
+
 * [Linked Lists](https://sassafras13.github.io/LinkedLists/)
 
 ### MolGAN Work
