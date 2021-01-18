@@ -18,7 +18,7 @@ I want to point out that there is also a separate, more general category of tree
 
 Trees have some other characteristics that we often discuss when working with them. For example, sometimes we say that we are working with **balanced** or **unbalanced** trees, and this refers to how the nodes are distributed within the tree structure [1]. They are qualitative descriptions, but in general a balanced tree can be thought of as having enough nodes distributed uniformly across the tree that the find and insert functions can be done in O(log n) time (more on this later) [1]. 
 
-![Fig 2({{ site.baseurl }}/images/2021-01-17-BinaryTrees-fig2.png "Figure 2"){:width=75%}       
+![Fig 2]({{ site.baseurl }}/images/2021-01-17-BinaryTrees-fig2.png "Figure 2"){:width=75%}       
 Figure 2     
 
 We can also describe a tree as being **complete**  if every level of the tree is completely filled (i.e. every node has 2 children in the case of binary trees) except for, perhaps, the last level (the leafs) [1]. Complete trees are not to be confused with **full** trees, where every node has _either_ 0 _or_ 2 child nodes [1]. And lastly we can have **perfect** trees where the trees are both full _and_ complete [1]. This means that all leaf nodes must be at the same level of the tree, and the last level has the maximum number of nodes [1]. Laakmann McDowell warns that perfect trees are rare in interviews, so you should ask your interviewer before assuming that you have one [1]. 
@@ -29,11 +29,11 @@ Now that we have some idea of the structure of a binary search tree, let’s loo
 
 First we will look at 3 different ways to traverse a tree (i.e. ways to move over all the nodes), then we will look at find, insert and delete operations on nodes in a binary search tree. The 3 traversal methods for trees are [1]: 
 
-*1. **In-order traversal**: we visit*2 the left branch, then the current node, then the right branch. When in-order traversal is applied to binary search trees, we will automatically visit all the nodes in _ascending_ order.     
+1. **In-order traversal**: we visit the left branch, then the current node, then the right branch. When in-order traversal is applied to binary search trees, we will automatically visit all the nodes in _ascending_ order. (In reality “visiting” means that we are printing the contents of the node to the terminal.)         
 
-*2. **Pre-order traversal**: first we visit the current node, then we visit the child nodes from left to right. We always visit the root node first.    
+2. **Pre-order traversal**: first we visit the current node, then we visit the child nodes from left to right. We always visit the root node first.    
 
-*3. **Post-order traversal**: contrary to pre-order traversal, we start with visiting the child nodes from left to right, and then visit the current node. The root node is always the last one visited.     
+3. **Post-order traversal**: contrary to pre-order traversal, we start with visiting the child nodes from left to right, and then visit the current node. The root node is always the last one visited.     
 
 The find operation for trees will look for a node of a specific value. In binary search trees, the find operation is quite simple: we start at the root and choose to go to the left child if the value we are looking for is less than the root, and we go right if it is greater than the root [4]. We repeat this process of going left or right until we find the node we are looking for, or we reach the bottom of the tree, in which case that value is not present in the tree [4]. A variant of find, known as findmin, looks for the minimum value in the tree by always choosing the left-hand child at every level. 
 
@@ -69,8 +69,7 @@ This brings us to a discussion about imbalance partitioning in trees. If we have
 ## Footnotes:
 
 *1 Laakmann McDowell recommends asking your interviewer (if you encounter a binary search tree during your coding interview) whether duplicates are allowed in the binary search tree or not [1]. This will be important when you are inserting nodes into the tree.
-
-*2 In reality “visiting” means that we are printing the contents of the node to the terminal. 
+ 
 
 ## References: 
 
