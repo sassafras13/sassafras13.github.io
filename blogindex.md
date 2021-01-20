@@ -41,6 +41,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [A Quick Note on Graph Implementations](https://sassafras13.github.io/Graphs/)
+
 * [Tries and Suffix Trees](https://sassafras13.github.io/Tries/) 
 
 * [Binary Search Trees](https://sassafras13.github.io/BinaryTrees/) 
