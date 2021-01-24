@@ -41,6 +41,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [Heaps](https://sassafras13.github.io/Heaps/)
+
 * [Obligatory Stacks and Queues Post](https://sassafras13.github.io/StacksQueues/)
 
 * [A Quick Note on Graph Implementations](https://sassafras13.github.io/Graphs/)
