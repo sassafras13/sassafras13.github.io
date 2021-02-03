@@ -41,6 +41,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [Basic Search and Sort Algorithms](https://sassafras13.github.io/SearchSort/)
+
 * [Depth-First Search and Breadth-First Search](https://sassafras13.github.io/DFS-BFS/)
 
 * [Heaps](https://sassafras13.github.io/Heaps/)
