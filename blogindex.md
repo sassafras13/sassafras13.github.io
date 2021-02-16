@@ -25,6 +25,8 @@ This index groups my posts by themes so you can find what you are looking for mo
   * [Filtering](#filtering)
   
   * [Review of Entity Abstraction](#review-of-entity-abstraction)
+  
+  * [Factor Graphs](#factor-graphs)
 
 * [Computing Tools](#computing-tools)
 
@@ -182,6 +184,10 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 * [Review of "Entity Abstraction", Part 2](https://sassafras13.github.io/EntAbs2/)
 
 * [Review of "Entity Abstraction", Part 3](https://sassafras13.github.io/EntAbs3/)
+
+#### Factor Graphs
+
+* [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
 
 ### Computing Tools
 
