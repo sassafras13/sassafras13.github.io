@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Obelisk Gate** by N.K. Jemisin 
+
 * **A Promised Land** by Barack Obama
 
 * **The Fifth Season** by N.K. Jemisin (I loved this book so much that I put the sequel on reserve in the library before I even reached the end!)
