@@ -215,6 +215,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [Molecular Dynamics Simulation](https://sassafras13.github.io/MDSims1/)
 
+* [Remembering Dynamic Light Scattering from 2 Years Ago](https://sassafras13.github.io/DLS/) 
+
 
 ### Control Theory
 These posts were written while studying for the PhD subject qualifying exam in control theory at Carnegie Mellon University. 
