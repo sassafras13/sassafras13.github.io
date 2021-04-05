@@ -34,8 +34,6 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 * [Control Theory](#control-theory)
 
-* [Microswimmer Research](#microswimmer-research)
-
 * [Social Issues](#social-issues)
 
 * [Miscellaneous](#miscellaneous)
@@ -211,6 +209,14 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [Nitrogenous Bases and DNA](https://sassafras13.github.io/DNA3/)
 
+* [Explaining the Scallop Theorem](https://sassafras13.github.io/ScallopTheorem/)
+
+* [Modeling DNA](https://sassafras13.github.io/DNAmodels/)
+
+* [The Diffraction Limit](https://sassafras13.github.io/DiffractionLimit/)
+
+* [What is FRET?](https://sassafras13.github.io/FRET/)
+
 * [Designing DNA Origami Structures](https://sassafras13.github.io/DesigningDNAOrigamiStructures/)
 
 * [Molecular Dynamics Simulation](https://sassafras13.github.io/MDSims1/)
@@ -218,6 +224,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 * [Remembering Dynamic Light Scattering from 2 Years Ago](https://sassafras13.github.io/DLS/) 
 
 * [Shining Some Light on Spectrophotometry](https://sassafras13.github.io/Spectrophotometry/)  
+
+* [Introducing Atomic Force Microscopy](https://sassafras13.github.io/AFM/) 
 
 
 ### Control Theory
@@ -286,18 +294,6 @@ These posts were written while studying for the PhD subject qualifying exam in c
 * [Writing System Dynamics in Discrete Time](https://sassafras13.github.io/DiscTimeSS/)
 
 * [Convex Optimization and MPC](https://sassafras13.github.io/ConvOpt/)
-
-
-### Microswimmer Research
-Things I have learned while building and controlling microswimmers in the lab. 
-
-* [Explaining the Scallop Theorem](https://sassafras13.github.io/ScallopTheorem/)
-
-* [Modeling DNA](https://sassafras13.github.io/DNAmodels/)
-
-* [The Diffraction Limit](https://sassafras13.github.io/DiffractionLimit/)
-
-* [What is FRET?](https://sassafras13.github.io/FRET/)
 
 
 ### Social Issues
