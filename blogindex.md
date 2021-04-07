@@ -229,6 +229,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [A Brief Guide to AFM Probe Selection](https://sassafras13.github.io/ProbeSelection/)   
 
+* [AFM Scanning Parameters and Image Artifacts](https://sassafras13.github.io/ImageArtifactsScanParams/)   
+
 
 ### Control Theory
 These posts were written while studying for the PhD subject qualifying exam in control theory at Carnegie Mellon University. 
