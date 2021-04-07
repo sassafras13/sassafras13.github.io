@@ -9,7 +9,8 @@ I have been writing a series of posts on different aspects of atomic force micro
 
 I will start by introducing some of the parameters we commonly tune during AFM imaging, and then I will describe each in more detail below. This information is also summarized in Figure 1. The first parameter we typically control is the **setpoint**. This parameter defines how much interaction force the system should maintain between the probe tip and the sample surface. Next, we have the **drive amplitude**, which is the amplitude at which the cantilever and tip are oscillating in tapping mode. (I don’t believe I have access to this parameter in my setup, so I will only briefly touch on it here.) We also have control over the control system’s **gains**, which determines the sensitivity of the control loop. We can change the **scan rate** or **scanning speed** while we are imaging, which means we change how quickly the probe rasters over the sample surface. Finally, we can choose the **resolution** of our scan image to determine how many pixels we want in our image [1]. 
 
-Figure 1 - Source: [1] 
+![Fig 1]({{ site.baseurl }}/images/2021-04-07-ImageArtifactsScanParams-fig1.png "Figure 1"){:width=75%}     
+Figure 1 - Source: [1]     
 
 ### Setpoint
 
