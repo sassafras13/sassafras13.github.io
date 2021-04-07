@@ -227,6 +227,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [Introducing Atomic Force Microscopy](https://sassafras13.github.io/AFM/) 
 
+* [A Brief Guide to AFM Probe Selection](https://sassafras13.github.io/ProbeSelection/)   
+
 
 ### Control Theory
 These posts were written while studying for the PhD subject qualifying exam in control theory at Carnegie Mellon University. 
