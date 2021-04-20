@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Three-Body Problem** by Cixin Liu (translated by Ken Liu)
+
 * **The Stone Sky** by N.K. Jemisin (Wow. Just wow. I cannot recommend this series enough.)
 
 * **The Obelisk Gate** by N.K. Jemisin 
