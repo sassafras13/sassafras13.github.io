@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **Patron Saints of Nothing** by Randy Ribay
+
+* **2034: A Novel of the Next World War** by Elliot Ackerman and Adm. James Stavridis
+
 * **The Three-Body Problem** by Cixin Liu (translated by Ken Liu)
 
 * **The Stone Sky** by N.K. Jemisin (Wow. Just wow. I cannot recommend this series enough.)
