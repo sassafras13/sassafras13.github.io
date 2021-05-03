@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **A Place for Us** by Fatima Farheen Mirza (So beautifully written. Each sentence was delicately crafted and the character arcs made me cry.)
+
 * **Patron Saints of Nothing** by Randy Ribay
 
 * **2034: A Novel of the Next World War** by Elliot Ackerman and Adm. James Stavridis
