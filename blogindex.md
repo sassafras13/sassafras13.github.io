@@ -8,6 +8,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 ## Themes
 
+* [Reading Papers](#reading-papers)
+
 * [CS Coding Interview](#cs-coding-interview)
 
 * [MolGAN Work](#molgan-work)
@@ -37,6 +39,11 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [Social Issues](#social-issues)
 
 * [Miscellaneous](#miscellaneous)
+
+### Reading Papers
+Short summaries on papers I read for fun and learning.
+
+* [Week of May 17 Paper Reading](https://sassafras13.github.io/weekMay17rdg/)
 
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
