@@ -44,6 +44,7 @@ This index groups my posts by themes so you can find what you are looking for mo
 Short summaries on papers I read for fun and learning.
 
 * [Week of May 17 Paper Reading](https://sassafras13.github.io/weekMay17rdg/)
+* [Week of May 24 Paper Reading](
 
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
