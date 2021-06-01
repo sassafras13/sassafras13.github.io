@@ -39,7 +39,7 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [Social Issues](#social-issues)
 
 * [Miscellaneous](#miscellaneous)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Index
 
 ### Reading Papers
