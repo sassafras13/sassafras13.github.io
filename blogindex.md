@@ -40,6 +40,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 
 * [Miscellaneous](#miscellaneous)
 
+---
+
 ## Index
 
 ### Reading Papers
