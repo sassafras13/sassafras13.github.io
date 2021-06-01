@@ -76,7 +76,7 @@ $$\left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right] ^ {V} = \left[ \matrix{v \c
 
 And conversely the “wedge” converts a vector to a matrix [1]:
 
-$$\left[ \matrix{v \cr \omega}^{\hat{}} \right] = \left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right]$$
+$$\left[ \matrix{v \cr \omega} \right]^{\hat{}} = \left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right]$$
 
 ## Matrix Exponentials
 In MLS we often want to write the rotation of a point or vector as a function of the direction of rotation, $$\omega$$, and some angle of rotation, $$\theta$$ [1]. To do that, imagine we are going to compute the velocity of a point that is rotating, as follows [1]: 
