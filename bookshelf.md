@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Midnight Library** by Matt Haig
+
 * **The Dark Forest** by Cixin Liu (translated by Joel Martinsen)
 
 * **A Place for Us** by Fatima Farheen Mirza (So beautifully written. Each sentence was delicately crafted and the character arcs made me cry.)
