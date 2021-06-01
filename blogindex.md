@@ -39,6 +39,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [Social Issues](#social-issues)
 
 * [Miscellaneous](#miscellaneous)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Index
 
 ### Reading Papers
 Short summaries on papers I read for fun and learning.
@@ -307,6 +309,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 * [Writing System Dynamics in Discrete Time](https://sassafras13.github.io/DiscTimeSS/)
 
 * [Convex Optimization and MPC](https://sassafras13.github.io/ConvOpt/)
+
+* [Fundamentals from Murray, Li and Sastry](https://sassafras13.github.io/MLSBasics/)
 
 
 ### Social Issues
