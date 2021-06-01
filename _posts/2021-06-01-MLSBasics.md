@@ -16,11 +16,11 @@ We can represent rigid body motion using a mapping, $g \in \mathbb{R}^3$ for poi
  
 * **Twist**: A representation of a screw motion that is infinitesimally small.   
 
-A twist can be written as $\xi = (v, \omega) \in \mathbb{R}^6$.
+A twist can be written as $$\xi = (v, \omega) \in \mathbb{R}^6$$.
 
 * **Wrench**: A representation of a system of forces acting on a rigid body that condenses the forces and torques into 1 force and 1 torque acting along the same line.   
 
-A wrench can be written as $F = (f, \tau) \in \mathbb{R}^6$. 
+A wrench can be written as $$F = (f, \tau) \in \mathbb{R}^6$$. 
 
 Essentially, the **twist** represents the kinematics of a system, while the **wrench** represents the dynamics. 
 
