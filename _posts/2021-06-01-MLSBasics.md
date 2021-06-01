@@ -76,7 +76,7 @@ $$\left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right] ^ {V} = \left[ \matrix{v \c
 
 And conversely the “wedge” converts a vector to a matrix [1]:
 
-$$\left[ \matrix{v \cr \omega}^{\check} = \left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right]$$
+$$\left[ \matrix{v \cr \omega}^{\^} \right] = \left[ \matrix{\hat{\omega} & v \cr 0 & 0} \right]$$
 
 ## Matrix Exponentials
 In MLS we often want to write the rotation of a point or vector as a function of the direction of rotation, $$\omega$$, and some angle of rotation, $$\theta$$ [1]. To do that, imagine we are going to compute the velocity of a point that is rotating, as follows [1]: 
@@ -91,7 +91,7 @@ $$q(t) = e^{\hat{\omega}t} q(0)$$
 
 $$e^{\hat{\omega}t} = I + \hat{\omega}t + \frac{(\hat{\omega}t)^2}{2!} + \frac{(\hat{\omega}t)^3}{3!} + …$$
 
-But generally infinite series are not useful in a computational setting, so we need to find a closed-form representation of the matrix exponential. Moreover, MLS argues that in general it is useful to write a matrix exponential or a skew-symmetric matrix representation as the product of a **unit** skew-symmetric matrix and a real number [1]. So we can define $$|\omega| = 1$$ and a real number $$\theta$$ so that we can rewrite the expression above as: 
+But generally infinite series are not useful in a computational setting, so we need to find a closed-form representation of the matrix exponential. Moreover, MLS argues that in general it is useful to write a matrix exponential or a skew-symmetric matrix representation as the product of a **unit** skew-symmetric matrix and a real number [1]. So we can define $$\lvert \omega \rvert = 1$$ and a real number $$\theta$$ so that we can rewrite the expression above as: 
 
 $$e^{\hat{\omega}\theta} = I + \theta \hat{\omega} + \frac{\theta^2}{2!} \hat{\omega}^2 + \frac{\theta^3}{3!} \hat{\omega}^3 + …$$
 
