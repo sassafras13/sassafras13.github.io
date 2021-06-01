@@ -43,7 +43,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 ### Reading Papers
 Short summaries on papers I read for fun and learning.
 
-* [Week of May 17 Paper Reading](https://sassafras13.github.io/weekMay17rdg/)
+* [Week of May 17 Paper Reading](https://sassafras13.github.io/weekMay17rdg/)  
+
 * [Week of May 24 Paper Reading](https://sassafras13.github.io/weekMay24rdg/)
 
 ### CS Coding Interview
