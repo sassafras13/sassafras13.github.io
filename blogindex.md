@@ -51,6 +51,8 @@ Short summaries on papers I read for fun and learning.
 
 * [Week of May 24 Paper Reading](https://sassafras13.github.io/weekMay24rdg/)
 
+* [Week of May 31 Paper Reading](https://sassafras13.github.io/weekMay31rdg/)
+
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
