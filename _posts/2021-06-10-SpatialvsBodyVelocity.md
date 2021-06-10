@@ -11,7 +11,7 @@ According to Murray, Li and Sastry (MLS), the definitions are as follows [1]:
 
 * **Spatial velocity**:- mathematically defined as $$\hat{V}^s = \dot{R}R^T = \dot{g} g^{-1}$$. MLS says that the spatial velocity of a rigid motion is the instantaneous velocity of the body as viewed in the spatial frame. It is the “velocity of a (possibly imaginary) point on the rigid body which is traveling through the origin of the spatial frame at time _t_” [1]. So if you are standing at the origin of a spatial frame and you measure the velocity of a point attached to the rigid body and going through the origin where you are standing, that is the spatial velocity [1]. 
 
-* **Body velocity**:- mathematically defined as $$\hat{Va}^b = R^T \dot{R} = g^{-1} \dot{g}$$. MLS says that the body velocity is more “straightforward” to understand; it is the “velocity of the origin of the body coordinate frame relative to the spatial frame, as viewed in the current body frame” [1].  MLS points out that the body velocity is not the velocity of the body relative to the body frame, because that is always zero [1]!
+* **Body velocity**:- mathematically defined as $$\hat{V}^b = R^T \dot{R} = g^{-1} \dot{g}$$. MLS says that the body velocity is more “straightforward” to understand; it is the “velocity of the origin of the body coordinate frame relative to the spatial frame, as viewed in the current body frame” [1].  MLS points out that the body velocity is not the velocity of the body relative to the body frame, because that is always zero [1]!
 
 ## Body Velocity
 
