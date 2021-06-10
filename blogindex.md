@@ -316,6 +316,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 
 * [Fundamentals from Murray, Li and Sastry](https://sassafras13.github.io/MLSBasics/)
 
+* [Spatial Velocity vs. Body Velocity](https://sassafras13.github.io/SpatialvsBodyVelocity/) 
+
 
 ### Social Issues
 Posts written while contemplating various social issues. 
