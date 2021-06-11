@@ -318,6 +318,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 
 * [Spatial Velocity vs. Body Velocity](https://sassafras13.github.io/SpatialvsBodyVelocity/) 
 
+* [Getting Some Intuition for Matrix Exponentials](https://sassafras13.github.io/MatrixExps/)
+
 
 ### Social Issues
 Posts written while contemplating various social issues. 
