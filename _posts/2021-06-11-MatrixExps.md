@@ -14,17 +14,17 @@ $$e^x = x^0 + x^1 + \frac{1}{2}x^2 + \frac{1}{6}x^3 + … + \frac{1}{n!}x^n + �
 
 Notice that this expression is a [Taylor series](https://sassafras13.github.io/TaylorSeries/). The sum of the Taylor series approaches the value of $$e^x$$ [1]. 
 
-A matrix exponential is, in a sense, an extension of this idea, using matrices as input $$x$$ instead of real numbers. For example, I can rewrite the expression above with $$x = \left \matrix{1 & 2 \cr 3 & 4} \right]$$ [1]: 
+A matrix exponential is, in a sense, an extension of this idea, using matrices as input $$x$$ instead of real numbers. For example, I can rewrite the expression above with $$x = \left[ \matrix{1 & 2 \cr 3 & 4} \right]$$ [1]: 
 
-$$e^{\left \matrix{1 & 2 \cr 3 & 4} \right]} = \left \matrix{1 & 2 \cr 3 & 4} \right]^0 + \left \matrix{1 & 2 \cr 3 & 4} \right]^1 + \frac{1}{2}\left \matrix{1 & 2 \cr 3 & 4} \right]^2 + \frac{1}{6}\left \matrix{1 & 2 \cr 3 & 4} \right]^3 + …$$
+$$e^{\left[ \matrix{1 & 2 \cr 3 & 4} \right]} = \left[ \matrix{1 & 2 \cr 3 & 4} \right]^0 + \left[ \matrix{1 & 2 \cr 3 & 4} \right]^1 + \frac{1}{2}\left[ \matrix{1 & 2 \cr 3 & 4} \right]^2 + \frac{1}{6}\left[ \matrix{1 & 2 \cr 3 & 4} \right]^3 + …$$
 
 This still makes sense because I can raise matrices to a real number power by multiplying the matrix by itself _n_ times. And in general, this infinite series will always approach a stable value - in this case, a stable matrix [1].
 
 The matrix exponential is useful in mathematics when we are trying to solve a system of differential equations. For example, let’s say I want to find expressions for $$x(t)$$, $$y(t)$$ and $$z(t)$$ given the equations below [1]:
 
-$$\frac{dx}{dt} = a \cdot x(t) + b \cdot y(t) + c \cdot z(t)$$
-$$\frac{dy}{dt} = d \cdot x(t) + e \cdot y(t) + f \cdot z(t)$$
-$$\frac{dz}{dt} = g \cdot x(t) + h \cdot y(t) + i \cdot z(t)$$
+$$\frac{dx}{dt} = a \cdot x(t) + b \cdot y(t) + c \cdot z(t)$$     
+$$\frac{dy}{dt} = d \cdot x(t) + e \cdot y(t) + f \cdot z(t)$$     
+$$\frac{dz}{dt} = g \cdot x(t) + h \cdot y(t) + i \cdot z(t)$$     
 
 I can use a matrix exponential to find the coefficients of the functions [1]:
 
@@ -69,6 +69,6 @@ This is also the expression for a 90 degree rotation counterclockwise with some 
 
 ## References:
 
-[1] “How (and why) to raise e to the power of a matrix | DE6.” 3Blue1Brown. 1 Apr 2021. <https://www.youtube.com/watch?v=O85OWBJ2ayo&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=6> Visited 11 Jun 2021. 
+[1] “How (and why) to raise e to the power of a matrix, DE6.” 3Blue1Brown. 1 Apr 2021. <https://www.youtube.com/watch?v=O85OWBJ2ayo&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=6> Visited 11 Jun 2021. 
 
 [2] Murray, R., Li, Z., Sastry, S. “A Mathematical Introduction to Robotic Manipulation.” CRC Press. 1994. 
