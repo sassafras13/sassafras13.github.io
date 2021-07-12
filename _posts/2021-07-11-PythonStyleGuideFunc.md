@@ -1,5 +1,5 @@
 ---
-title: Google's Python Style Guide Part 1: Functionality
+title: Google's Python Style Guide Part 1 - Functionality
 layout: post
 ---
 
@@ -25,7 +25,7 @@ Instead of writing this:
 
 **Do not use global variables.** Global variables can be variables that have scopes including an entire module or class. Python does not have a specific datatype for constants like other languages, but you can still stylistically create them [4], for example by writing them as _MY_CONSTANT = 13. The underscore at the beginning of the variable name indicates that the variable is internal to the module or class that is using it. 
 
-**It is okay to use comprehensions*1 and generators*2 on simple cases, but avoid using them for more complicated situations.** Comprehensions and generators are really useful because they do not require for loops, and they are elegant and easy to read. They also do not require much memory. However, complicated constructions of comprehensions/generators can make your code more opaque. Generally, Google recommends using comprehensions/generators as long as they fit on one line or the individual components can be separated into individual lines.   
+**It is okay to use comprehensions and generators on simple cases, but avoid using them for more complicated situations.** Comprehensions*1 and generators*2 are really useful because they do not require for loops, and they are elegant and easy to read. They also do not require much memory. However, complicated constructions of comprehensions/generators can make your code more opaque. Generally, Google recommends using comprehensions/generators as long as they fit on one line or the individual components can be separated into individual lines.   
 
 **Use default iterators and operators for data types that support them.** Some data types, like lists and dictionaries, support specific iterator keywords like “in” and “not in.” It’s acceptable to use these iterators because they are simple, readable and efficient, but you want to make sure that you do not change a container when you are iterating over it (since lists and dictionaries are [mutable objects](https://sassafras13.github.io/MutvsImmut/) in Python).   
 
@@ -67,7 +67,7 @@ That is all for today’s post on functional recommendations in Google’s Pytho
 
 *2 Generator functions are useful for iterating over really large datasets. They are called “lazy iterators” because they do not store their internal state in memory. They also use the “yield” statement instead of the “return” statement. This means that they can send a value back to the code that is calling the generator function, but they don’t have to exit after they have returned, as in a regular function. This allows generator functions to remember their state. In this way generators are very memory efficient but allow for iteration similar to comprehensions [6]. 
 
-*3 This happened to a classmate of mine, once, and he said it almost ruined a paper submission for him. This is covered in detail in [8]. 
+*3 This happened to a classmate of mine once, and he said it almost ruined a paper submission for him. This is covered in detail in [8]. 
 
 ## References
 
