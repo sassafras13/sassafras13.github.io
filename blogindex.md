@@ -216,6 +216,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Docker Best Practices](https://sassafras13.github.io/DockerBestPractices/)
 
+* [](https://sassafras13.github.io/2021-07-11-PythonStyleGuideFunc/)
+
 
 ### DNA Nanotechnology
 For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics and maybe even some cool stuff about DNA nanotechnology. 
