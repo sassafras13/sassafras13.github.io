@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **A People's History of the United States** by Howard Zinn (hugely valuable read on all of US history to a novice like me)
+
 * **The Midnight Library** by Matt Haig
 
 * **The Dark Forest** by Cixin Liu (translated by Joel Martinsen)
