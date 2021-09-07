@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **Lessons from Plants** by Dr. Beronda L. Montgomery (amazing, and she is a fantastic speaker too!)
+
 * **A People's History of the United States** by Howard Zinn (hugely valuable read on all of US history to a novice like me)
 
 * **The Midnight Library** by Matt Haig
