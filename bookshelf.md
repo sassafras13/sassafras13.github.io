@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **Thud!** by Terry Pratchett
+
 * **Death's End** by Cixin Liu (translated by Ken Liu)
 
 * **Lessons from Plants** by Dr. Beronda L. Montgomery (amazing, and she is a fantastic speaker too!)
