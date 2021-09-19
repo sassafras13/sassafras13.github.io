@@ -30,6 +30,8 @@ This index groups my posts by themes so you can find what you are looking for mo
   
   * [Factor Graphs](#factor-graphs)
 
+  * [Probabilistic Graphical Models](#probabilistic-graphical-models)
+
 * [Computing Tools](#computing-tools)
 
 * [DNA Nanotechnology](#dna-nanotechnology)
@@ -203,6 +205,10 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 #### Factor Graphs
 
 * [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
+
+#### Probabilistic Graphical Models
+
+* [The Basics for Graphical Models](https://sassafras13.github.io/Graphs/)
 
 ### Computing Tools
 
