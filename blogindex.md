@@ -210,6 +210,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [The Basics for Graphical Models](https://sassafras13.github.io/Graphs/)
 
+* [Undirected and Directed Graph Properties](https://sassafras13.github.io/Graphs2/)
+
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
