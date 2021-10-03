@@ -210,7 +210,9 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [The Basics for Graphical Models](https://sassafras13.github.io/Graphs/)
 
-* [Undirected and Directed Graph Properties](https://sassafras13.github.io/Graphs2/)
+* [Undirected and Directed Graph Properties](https://sassafras13.github.io/Graphs2/)  
+
+* [Chain Graphs and LWF and AMP Graph Properties](https://sassafras13.github.io/Graphs3/)
 
 ### Computing Tools
 
