@@ -83,7 +83,7 @@ $$P^{\mathcal{C}; do(Z=z, X=x)}(Y|W) = P^{\mathcal{C}; do(Z=z)}(Y|X=x, W)$$
 
 The simplest case of this rule, where $$Z = W = 0$$, is the same as one of the rules we looked at in the previous section, namely [1]: 
 
-$$P^{\mathcal{C}; do(X=x)(Y) = P^{\mathcal{C}}(Y|X=x)$$
+$$P^{\mathcal{C}; do(X=x)}(Y) = P^{\mathcal{C}}(Y|X=x)$$
 
 This is true if Y is d-separated from $$I_X$$ given X in the graph G+. 
 
@@ -126,10 +126,10 @@ $$P^{\mathcal{C}; do(T=1)}(Z=z) = P^{\mathcal{C}}(Z=z)$$
 
 These equalities allow us to rewrite the intervention probability distribution in terms of conditional probabilities that we can observe, that is [1]: 
 
-$$P^{\mathcal{C}; do(T=1)}(R=1) &= \sum_z P^{\mathcal{C}; do(T=1)}(R=1, T=1, Z=z)\\
-&= sum_z P^{\mathcal{C}; do(T=1)}(R=1 | T=1, Z=z) P^{\mathcal{C}; do(T=1)}(T=1, Z=z)\\
-&= sum_z P^{\mathcal{C}; do(T=1)}(R=1 | T=1, Z=z)P^{\mathcal{C}; do(T=1)}(Z=z)\\
-&= \sum_z P^{\mathcal{C}}(R=1 | T=1, Z=z) P^{\mathcal{C}}(Z=z)$$
+$$P^{\mathcal{C}; do(T=1)}(R=1) &= \sum_z P^{\mathcal{C}; do(T=1)}(R=1, T=1, Z=z)$$  
+$$= sum_z P^{\mathcal{C}; do(T=1)}(R=1 | T=1, Z=z) P^{\mathcal{C}; do(T=1)}(T=1, Z=z)$$  
+$$= sum_z P^{\mathcal{C}; do(T=1)}(R=1 | T=1, Z=z)P^{\mathcal{C}; do(T=1)}(Z=z)$$  
+$$= \sum_z P^{\mathcal{C}}(R=1 | T=1, Z=z) P^{\mathcal{C}}(Z=z)$$  
 
 All of the probabilities in the last line of the equation above are things that we can observe without intervening on the SCM. In this situation, we can see that Z is a **valid adjustment set** for X and Y because by taking it into account we can completely define the causal relationship for X and Y now [1].
 
