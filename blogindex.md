@@ -216,6 +216,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [A Brief Introduction to Structural Causal Models](https://sassafras13.github.io/SCMs/)
 
+* [Pearl's Do-Calculus for Structural Causal Models](https://sassafras13.github.io/DoCalculus/)
+
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
