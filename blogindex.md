@@ -218,6 +218,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Pearl's Do-Calculus for Structural Causal Models](https://sassafras13.github.io/DoCalculus/)
 
+* [Variable Elimination and Junction Trees](https://sassafras13.github.io/VE-JT/)
+
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
