@@ -21,14 +21,10 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [Machine Learning and Artificial Intelligence Topics](#machine-learning-and-artificial-intelligence-topics)
 
   * [Variational Autoencoders](#variational-autoencoders)
-  
-  * [Introduction to Graph Networks from DeepMind](#introduction-to-graph-networks-from-deepmind)
-  
+    
   * [Filtering](#filtering)
   
   * [Review of Entity Abstraction](#review-of-entity-abstraction)
-  
-  * [Factor Graphs](#factor-graphs)
 
   * [Probabilistic Graphical Models](#probabilistic-graphical-models)
 
@@ -37,6 +33,12 @@ This index groups my posts by themes so you can find what you are looking for mo
 * [DNA Nanotechnology](#dna-nanotechnology)
 
 * [Control Theory](#control-theory)
+
+  * [PhD Qualifying Exam](#phd-qualifying-exam)
+
+  * [Advanced Topics in Controls](#advanced-topics-in-controls)
+
+  * [Robot Kinematics and Dynamics](#robot-kinematics-and-dynamics)
 
 * [Social Issues](#social-issues)
 
@@ -178,14 +180,6 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [ML Bonanza Episode 3 - Gradient of the ELBO](https://sassafras13.github.io/VAE-adv/)
 
-#### Introduction to Graph Networks from DeepMind
-
-* [Introduction to Graph Networks](https://sassafras13.github.io/GNs/)
-
-* [Probability and Graph Networks](https://sassafras13.github.io/GNs-probability/)
-
-* [Graph Networks - Putting It All Together](https://sassafras13.github.io/GNs-graph-theory/)
-
 #### Filtering
 
 * [Tracking and Filtering](https://sassafras13.github.io/Filters/)
@@ -202,11 +196,16 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Review of "Entity Abstraction", Part 3](https://sassafras13.github.io/EntAbs3/)
 
-#### Factor Graphs
-
-* [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
 
 #### Probabilistic Graphical Models
+
+* [Introduction to Graph Networks](https://sassafras13.github.io/GNs/)
+
+* [Probability and Graph Networks](https://sassafras13.github.io/GNs-probability/)
+
+* [Graph Networks - Putting It All Together](https://sassafras13.github.io/GNs-graph-theory/)
+
+* [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
 
 * [The Basics for Graphical Models](https://sassafras13.github.io/Graphs/)
 
@@ -268,8 +267,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 
 ### Control Theory
-These posts were written while studying for the PhD subject qualifying exam in control theory at Carnegie Mellon University. 
 
+#### PhD Qualifying Exam
 * [Lead Compensators](https://sassafras13.github.io/LeadComp1/)
 
 * [Drawing Root Locus Plots](https://sassafras13.github.io/RootLocus/)
@@ -326,6 +325,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 
 * [Designing Lead and Lag-Lead Compensators with Bode Plots](https://sassafras13.github.io/LeadLagBode/)
 
+#### Advanced Topics in Controls
+
 * [Control Theory Grab Bag and MPC](https://sassafras13.github.io/ControlTheoryBasics/)
 
 * [Welcome to Discrete Time](https://sassafras13.github.io/DiscreteTime/)
@@ -333,6 +334,8 @@ These posts were written while studying for the PhD subject qualifying exam in c
 * [Writing System Dynamics in Discrete Time](https://sassafras13.github.io/DiscTimeSS/)
 
 * [Convex Optimization and MPC](https://sassafras13.github.io/ConvOpt/)
+
+#### Robot Kinematics and Dynamics
 
 * [Fundamentals from Murray, Li and Sastry](https://sassafras13.github.io/MLSBasics/)
 
