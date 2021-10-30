@@ -207,18 +207,6 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
 
-* [The Basics for Graphical Models](https://sassafras13.github.io/Graphs/)
-
-* [Undirected and Directed Graph Properties](https://sassafras13.github.io/Graphs2/)  
-
-* [Chain Graphs and LWF and AMP Graph Properties](https://sassafras13.github.io/Graphs3/)
-
-* [A Brief Introduction to Structural Causal Models](https://sassafras13.github.io/SCMs/)
-
-* [Pearl's Do-Calculus for Structural Causal Models](https://sassafras13.github.io/DoCalculus/)
-
-* [Variable Elimination and Junction Trees](https://sassafras13.github.io/VE-JT/)
-
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
