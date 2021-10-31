@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Immortal Life of Henrietta Lacks** by Rebecca Skloot
+
 * **Thud!** by Terry Pratchett
 
 * **Death's End** by Cixin Liu (translated by Ken Liu)
