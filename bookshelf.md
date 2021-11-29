@@ -9,6 +9,12 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Irresistible Introvert** by Michaela Chung
+
+* **Raising Steam** by Terry Pratchett
+
+* **Pachinko** by Min Jin Lee  
+
 * **The Immortal Life of Henrietta Lacks** by Rebecca Skloot
 
 * **Thud!** by Terry Pratchett
