@@ -331,6 +331,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [Getting Some Intuition for Matrix Exponentials](https://sassafras13.github.io/MatrixExps/)
 
+* [Motion Planning with Calculus](https://sassafras13.github.io/CVF/)
+
 
 ### Social Issues
 Posts written while contemplating various social issues. 
