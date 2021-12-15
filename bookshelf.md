@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **Binti** by Nnedi Okorafor
+
+* **All Systems Red** by Martha Wells
+
 * **The Irresistible Introvert** by Michaela Chung
 
 * **Raising Steam** by Terry Pratchett
