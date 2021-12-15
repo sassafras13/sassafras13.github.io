@@ -219,7 +219,7 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Docker Best Practices](https://sassafras13.github.io/DockerBestPractices/)
 
-* [Google's Python Style Guide Part 1 - Functionality](https://sassafras13.github.io/2021-07-11-PythonStyleGuideFunc/)
+* [Google's Python Style Guide Part 1 - Functionality](https://sassafras13.github.io/PythonStyleGuideFunc/)
 
 
 ### DNA Nanotechnology
