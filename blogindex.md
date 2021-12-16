@@ -221,6 +221,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Google's Python Style Guide Part 1 - Functionality](https://sassafras13.github.io/PythonStyleGuideFunc/)
 
+* [Writing Dynamics Models in MATLAB](https://sassafras13.github.io/MatlabModeling/)
+
 
 ### DNA Nanotechnology
 For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics and maybe even some cool stuff about DNA nanotechnology. 
