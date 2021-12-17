@@ -223,7 +223,7 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Writing Dynamics Models in MATLAB](https://sassafras13.github.io/MatlabModeling/)
 
-* [ODE Solvers in MATLAB]()
+* [ODE Solvers in MATLAB](https://sassafras13.github.io/ODEsolvers/)
 
 
 ### DNA Nanotechnology
