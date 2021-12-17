@@ -16,21 +16,21 @@ $$y(t + h) = y(t) + \int_t^{t+h} f(s, y(s)) ds$$
 
 The simplest algorithm for solving this problem numerically is called **Euler’s method**. It uses a fixed step size [1]: 
 
-$$y_{n+1} = y_n + h f(t_n, y_n)$$
+$$y_{n+1} = y_n + h f(t_n, y_n)$$    
 $$t_{n+1} = t_n + h$$
 
-This method is not particularly efficient, and requires very small steps for accuracy. The step size is also fixed, and the choice of step size, at the moment, is rather arbitrary - we don’t have a good sense for what an appropriate size of $h$ would be. An important improvement to Euler’s method is including a way to estimate the error in this algorithm - this helps us understand how well our numerical integration is doing and how to change our step size to improve our performance [1]. 
+This method is not particularly efficient, and requires very small steps for accuracy. The step size is also fixed, and the choice of step size, at the moment, is rather arbitrary - we don’t have a good sense for what an appropriate size of $$h$$ would be. An important improvement to Euler’s method is including a way to estimate the error in this algorithm - this helps us understand how well our numerical integration is doing and how to change our step size to improve our performance [1]. 
 
-This leads us to the development of **single-step methods** (or **Runge-Kutta methods**), which compute several values for $f(t, y)$ in the interval $\[t_n, t_{n+1}\]$. We use a linear combination of these intermediate values to compute the value $y_{n+1}$ and take a step in that direction. Classical Runge-Kutta methods do not actually include a way to compute the error, either, but MATLAB implements all of its ODE solvers (many of which use Runge-Kutta methods) with an error computation included in the function. This is important to know because the error is used to determine whether to accept the integration step, or reduce the step size and try again. The user can define the threshold above which the error is too high and we reduce the step size [1]. 
+This leads us to the development of **single-step methods** (or **Runge-Kutta methods**), which compute several values for $$f(t, y)$$ in the interval $$\[t_n, t_{n+1}\]$$. We use a linear combination of these intermediate values to compute the value $$y_{n+1}$$ and take a step in that direction. Classical Runge-Kutta methods do not actually include a way to compute the error, either, but MATLAB implements all of its ODE solvers (many of which use Runge-Kutta methods) with an error computation included in the function. This is important to know because the error is used to determine whether to accept the integration step, or reduce the step size and try again. The user can define the threshold above which the error is too high and we reduce the step size [1]. 
 
-If you’re familiar with MATLAB’S ODE solvers, you may already know that there are 2 error parameters that we can set: **relative tolerance** and **absolute tolerance**. The definition of each one is given below [2]:
+If you’re familiar with MATLAB’s ODE solvers, you may already know that there are 2 error parameters that we can set: **relative tolerance** and **absolute tolerance**. The definition of each one is given below [2]:
 
-```RelTol = abs(X - Y) / min(abs(X), abs(Y))```  
+```RelTol = abs(X - Y) / min(abs(X), abs(Y))```   
 ```AbsTol = abs(X - Y)```
 
 The key reason why we have 2 parameters is because if either the value of X or Y becomes very small, then the relative tolerance parameter will go to infinity, and so the ODE solver switches to using the absolute tolerance as the cutoff for the error in that situation [2]. These are 2 parameters that you can manipulate when you are trying to optimize your ODE solver for your particular application. 
 
-In fact, MATLAB’ naming convention reflects how it computes the error for each ODE solver. The general format is ```odennxx``` where the ```nn``` digits indicate the orders of the methods used to perform the integration, and the ```xx``` suffix, when used, indicates other special properties of that function. So if we consider our favorite ```ode45```, the naming convention indicates that the function computes the error by comparing the results of a 4th order method with a 5th order method [1]. 
+In fact, MATLAB’s naming convention reflects how it computes the error for each ODE solver. The general format is ```odennxx``` where the ```nn``` digits indicate the orders of the methods used to perform the integration, and the ```xx``` suffix, when used, indicates other special properties of that function. So if we consider our favorite ```ode45```, the naming convention indicates that the function computes the error by comparing the results of a 4th order method with a 5th order method [1]. 
 
 ## Stiffness
 
@@ -38,10 +38,10 @@ So far we have seen that all of MATLAB’s ODE solvers are taking steps along a 
 
 Moler also uses a nice metaphor to explain stiffness from an intuitive standpoint. Trying to solve a stiff system is like following a trail in the dark along the bottom of a narrow valley with very high walls. The naive approach is to wander in a random direction and let the gradient of the valley push you towards the trail. Unfortunately, this is not very efficient as you will likely weave back and forth across the trail and up and down the sides of the valley. This is a stiff problem, and a better way to solve it is to use a flashlight to look ahead of you and see where the trail is and follow it without oscillating up and down the valley walls. The MATLAB equivalent of the flashlight is a subset of ODE solvers that are designed to predict how the solution will continue to evolve and use that information to take steps in the right direction without oscillating via the gradient [1]. 
 
-A good example of the benefit of using a stiff ODE solver is to try to solve a simple model for flame propagation [1]: 
-$$\dot{y} = y^2 - y^3$$
-$$y(0) = \delta$$
-$$0 \leq t \leq 2/\delta$$
+A good example of the benefit of using a stiff ODE solver is to try to solve a simple model for flame propagation [1]:    
+$$\dot{y} = y^2 - y^3$$    
+$$y(0) = \delta$$    
+$$0 \leq t \leq 2/\delta$$    
 
 For large values of $$\delta$$ (the radius of the ball of flame), this is not a very stiff problem, but as the radius gets smaller, the system does become more stiff. See this for yourself by running the code below. Try varying the value of ```delta``` to see how it makes the problem more stiff, and how ```ode45``` really slows down when it tries to solve the stiff version of the problem. If you then switch over to ```ode23s``` you will see that this solver is much faster and finding the solution [1]. 
 
