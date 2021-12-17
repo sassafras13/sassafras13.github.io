@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2021
 
+* **The Warmth of Other Suns** by Isabel Wilkerson
+
 * **Binti** by Nnedi Okorafor
 
 * **All Systems Red** by Martha Wells
