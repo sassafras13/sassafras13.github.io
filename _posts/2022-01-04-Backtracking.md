@@ -9,7 +9,7 @@ The basic idea behind backtracking is that we want to find all possible solution
 
 Let’s find all the possible permutations of the numbers {1, 2, 3} where 1 and 3 are not adjacent. First, we need to find all of the possible solutions to this problem (we’ll eliminate the ones that don’t meet the adjacency constraint in a second step). We can do this using a tree to represent the **state space**, i.e. all the possible solutions [2]. This tree is shown in Figure 1. 
 
-![Fig 1]({{ site.baseurl }}/images/2022-01-04-fig1.png "Figure 1"){:width=75%}   
+![Fig 1]({{ site.baseurl }}/images/2022-01-04-Backtracking-fig1.png "Figure 1"){:width=75%}   
 Figure 1   
 
 Every branch of this tree represents one of the possible solutions to this problem (i.e. a unique state). We can use depth-first search (DFS) to list out all the possible solutions: [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]. (Notice that there are 6 solutions and 6 branches in the tree.) But what do we do about the fact that some of these solutions place 1 and 3 next to each other? We could add a check in our DFS algorithm such that if the constraint is violated (i.e. we find [1, 3 …]), then we stop searching along this branch and return to the root node to try the next branch instead [2]. This method would leave us with the 2 viable solutions: [1, 2, 3] and [3, 2, 1]. 
