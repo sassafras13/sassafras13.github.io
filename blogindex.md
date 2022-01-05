@@ -142,6 +142,8 @@ Skills I am learning while in grad school.
 
 * [Reflections and New Goals in the PhD Program in 2021](https://sassafras13.github.io/RandomPhD/)
 
+* [Reflections and New Goals for 2022](https://sassafras13.github.io/Reflections/)
+
 
 ### Machine Learning and Artificial Intelligence Topics
 Posts that I wrote to teach myself about ideas in ML and AI. 
