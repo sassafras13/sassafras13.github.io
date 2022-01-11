@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **American Spy** by Lauren Wilkinson   
+
 * **Project Hail Mary** by Andy Weir
 
 ## 2021
