@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Binti: Home** by Nnedi Okorafor
+
 * **Network Effect** by Martha Wells
 
 * **Yes, Fear Works (But There's a Better Way)** by Bradley Hartmann and Carl Moyer
