@@ -263,6 +263,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [AFM Scanning Parameters and Image Artifacts](https://sassafras13.github.io/ImageArtifactsScanParams/)   
 
+* [Thermodynamics and Reaction Kinetics, Revisited](https://sassafras13.github.io/thermo-reaction/) 
+
 
 ### Control Theory
 
