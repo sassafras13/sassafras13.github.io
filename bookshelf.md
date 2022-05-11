@@ -9,6 +9,16 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Anxious People** by Fredrik Backman
+
+* **Fine** by Rhea Ewing
+
+* **A Master of Djinn** by P. Djeli Clark 
+
+* **The Black God's Drums** by P. Djeli Clark
+
+* **Binti: The Night Masquerade** by Nnedi Okorafor
+
 * **Binti: Home** by Nnedi Okorafor
 
 * **Network Effect** by Martha Wells
