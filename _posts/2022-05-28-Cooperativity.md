@@ -18,7 +18,7 @@ Let’s look at how researchers “measure” cooperativity and model it in diff
 
 $$ \gamma = \frac{x}{K + x}$$
 
-Where $$\gamma$$ is the oxygen saturation, $$x$$ is the concentration (or partial pressure) of oxygen and $$K$$ is the dissociation constant. This is called a Langmuir equation because it is an equation of the form $$y = \frac{x}{1 + x}$$ and has a specific hyperbolic curve shape, as shown in Figure 1 in green [7]. We also sometimes call it a Michaelis-Menten equation, which is an equation in the same form [1, 3]. 
+Where $\gamma$ is the oxygen saturation, $x$ is the concentration (or partial pressure) of oxygen and $K$ is the dissociation constant. This is called a Langmuir equation because it is an equation of the form $y = \frac{x}{1 + x}$ and has a specific hyperbolic curve shape, as shown in Figure 1 in green [7]. We also sometimes call it a Michaelis-Menten equation, which is an equation in the same form [1, 3]. 
 
 ![Fig 1]({{ site.baseurl }}/images/2022-05-28-cooperativity-fig1.png "Figure 1"){:width=75%}    
 Figure 1 - Source [1]   
@@ -31,7 +31,7 @@ The significance here is that the sigmoidal curve is a tell-tale sign that coope
 
 $$\gamma = \frac{[L]^n}{K_ + [L]^n}$$
 
-Where $$\gamma$$ is the fraction of binding sites filled on the hemoglobin protein (also often represented as $$\theta$$), $$[L]$$ is the concentration of the ligand (in this case, oxygen) and $$K$$ is the dissociation constant. The variable $$n$$ is the Hill coefficient, which can be used to quantify the cooperativity of the reaction. If $$n = 1$$, then there is no cooperativity present, and the equation is equal to the model we presented above [3]. 
+Where $\gamma$ is the fraction of binding sites filled on the hemoglobin protein (also often represented as $\theta$), $[L]$ is the concentration of the ligand (in this case, oxygen) and $K$ is the dissociation constant. The variable $$n$$ is the Hill coefficient, which can be used to quantify the cooperativity of the reaction. If $n = 1$, then there is no cooperativity present, and the equation is equal to the model we presented above [3]. 
 
 The Hill equation fits experimental data nicely, but it brings up some interesting questions. For example, the Hill equation assumes that four oxygen molecules are simultaneously binding with the hemoglobin protein, but that’s a pretty unreasonable assumption [1]. So what, exactly, does the cooperativity look like? How is the binding of multiple oxygen molecules to the hemoglobin protein making the later binding events “easier”? 
 
@@ -49,7 +49,7 @@ Naturally, one might imagine that instead of having four oxygen molecules miracu
 
 $$\gamma = \frac{\frac{1}{4} a_1 x + \frac{1}{2} a_2 x^2 + \frac{3}{4} a_3 x^3 + a_4 x^4} {1 + a_1 x + a_2 x^2 + a_3 x^3 + a_4 x^4}$$
 
-Where the coefficients $$a_1$$ to $$a_4$$ are functions of the equilibrium constants for each of the four oxygen molecules [1]. This model can be fit to experimental data very well, and to do so, we need to assume that cooperativity exists by making the latter binding events more favorable than the earlier ones [1]. 
+Where the coefficients $a_1$ to $a_4$ are functions of the equilibrium constants for each of the four oxygen molecules [1]. This model can be fit to experimental data very well, and to do so, we need to assume that cooperativity exists by making the latter binding events more favorable than the earlier ones [1]. 
 
 Okay, but how, specifically, would the earlier oxygen binding events make the later ones more energetically favorable? The Koshland-Nemethy-Filmer (KNF) model suggests that when the first oxygen binds to the hemoglobin, then the other three binding sites are affected allosterically to increase their affinity for binding to oxygen molecules [1]. Remember earlier that we defined allostery as bending the protein molecule in some way.
 
