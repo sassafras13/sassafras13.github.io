@@ -267,6 +267,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [Cooperativity is a Key to Life!](https://sassafras13.github.io/Cooperativity/)
 
+* [Deriving the Boltzmann Distribution](https://sassafras13.github.io/BoltzmannDistribution/)
+
 
 ### Control Theory
 
