@@ -171,7 +171,7 @@ $$\bar{E} = \frac{1}{2} k_B T$$
 
 Which we’ll use in a minute. First, let’s rewrite the average energy (or the expectation) [1]: 
 
-$$\bar{E} = \frac{ \int_{-\infty}^{\infty} \frac{p_x^2}{2m} e^{- \beta (p_x^2 / 2m)} dp_x}{\sqrt{2m\pi / \beta}}
+$$\bar{E} = \frac{ \int_{-\infty}^{\infty} \frac{p_x^2}{2m} e^{- \beta (p_x^2 / 2m)} dp_x}{\sqrt{2m\pi / \beta}}$$
 
 From here, we can replace $$\alpha = \beta / 2m$$ and solve the integral to obtain, at last [1]: 
 
