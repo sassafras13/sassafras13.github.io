@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Ring Shout** by P. Djeli Clark
+
 * **Anxious People** by Fredrik Backman
 
 * **Fine** by Rhea Ewing
