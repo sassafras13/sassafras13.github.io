@@ -93,15 +93,15 @@ As we discussed [previously](https://sassafras13.github.io/Cooperativity/), the 
 
 $$E = (1 - \sigma_m) \epsilon_T \sum_{i=1}^2 \sigma_i + \sigma_m \left( \epsilon + \epsilon_R \sum_{i=1}^2 \sigma_i \right)$$
 
-To compute the grand partition function, we need to sum up over 8 unique cases (4 for each state, T or R). The T terms are in red and the R terms are in blue below [1]: 
+To compute the grand partition function, we need to sum up over 8 unique cases (4 for each state, T or R) [1]: 
 
-$$\mathcal{Z} = \textcolor{red}{1 + 2 e^{-\beta(\epsilon_T - \mu)} + e^{-\beta(2 \epsilon_T - 2 \mu)}} + \textcolor{blue}{e^{-\beta \epsilon} ( 1 + 2 e^{-\beta(\epsilon_R - \mu)} + e^{-\beta(2 \epsilon_R - 2\mu)}) }$$
+$$\mathcal{Z} = 1 + 2 e^{-\beta(\epsilon_T - \mu)} + e^{-\beta(2 \epsilon_T - 2 \mu)} + e^{-\beta \epsilon} ( 1 + 2 e^{-\beta(\epsilon_R - \mu)} + e^{-\beta(2 \epsilon_R - 2\mu)})$$
 
 From this, the average occupancy is [1]: 
 
 $$\bar{N} = \frac{2}{\mathcal{Z}} [x + x^2 + e^{-\beta \epsilon} ( y + y^2)]$$
 
-Where $$x = (c/c_0)e^{-\beta(\epsilon_T - \mu_0)}$$ and $$y = (c\c_0) e^{-\beta(\epsilon_R - \mu_0)}$$. As we discussed before, although this model does not explicitly capture cooperativity, the emergent behavior of the system transitioning between T and R states will result in cooperative-like behavior. In the next section, we consider a model for a receptor with four binding sites but no cooperativity, and then add the cooperativity to build the Pauling model. 
+Where $$x = (c/c_0)e^{-\beta(\epsilon_T - \mu_0)}$$ and $$y = (c/c_0) e^{-\beta(\epsilon_R - \mu_0)}$$. As we discussed before, although this model does not explicitly capture cooperativity, the emergent behavior of the system transitioning between T and R states will result in cooperative-like behavior. In the next section, we consider a model for a receptor with four binding sites but no cooperativity, and then add the cooperativity to build the Pauling model. 
 
 ## Four Binding Sites Without Cooperativity, then the Pauling Model
 
