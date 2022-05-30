@@ -11,7 +11,7 @@ In this section, we are going to derive the Law of Mass Action. This law describ
 
 Let’s consider a very basic system which has two types of molecules, A and B, which are allowed to bind together to form a new molecule AB. We can write the reaction as [1]: 
 
-$$A + B \rightleftharpoon AB$$
+$$A + B \rightarrow AB$$
 
 We can represent the number of each species of molecule as $$N_A, N_B$$ and $$N_{AB}$$ respectively. Since this system is at equilibrium, then the change in Gibbs free energy, G, should not change [1]: 
 
@@ -65,7 +65,7 @@ $$K_{eq} = \frac{c_{AB}}{c_A c_B}$$
 
 Now that we have the Law of Mass Action well in hand, let’s use it to examine a couple of example systems at equilibrium. We’ll start with a simple ligand-receptor problem defined pretty much the same as above [1]:
 
-$$L + R \Rightleftharpoon LR$$
+$$L + R \rightarrow LR$$
 
 We can write the dissociation constant as $$K_d = \frac{[L][R]}{[LR]}$$. The probability that the receptor will be bound is equal to [1]: 
 
@@ -89,7 +89,7 @@ And when we plot $$S$$ we can see that the information entropy (i.e. the missing
 
 Let’s consider a slightly more complex reaction where two ligands bind to one receptor [1]: 
 
-$$L + L + R \rightleftharpoon L_2 R$$
+$$L + L + R \rightarrow L_2 R$$
 
 Here the dissociation constant is [1]: 
 
