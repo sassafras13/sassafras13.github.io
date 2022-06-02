@@ -31,7 +31,7 @@ The significance here is that the sigmoidal curve is a tell-tale sign that coope
 
 $$\gamma = \frac{[L]^n}{K_ + [L]^n}$$
 
-Where $\gamma$ is the fraction of binding sites filled on the hemoglobin protein (also often represented as $\theta$), $[L]$ is the concentration of the ligand (in this case, oxygen) and $K$ is the dissociation constant. The variable $$n$$ is the Hill coefficient, which can be used to quantify the cooperativity of the reaction. If $$n = 1$$, then there is no cooperativity present, and the equation is equal to the model we presented above [3]. 
+Where $$\gamma$$ is the fraction of binding sites filled on the hemoglobin protein (also often represented as $$\theta$$), $$[L]$$ is the concentration of the ligand (in this case, oxygen) and $$K$$ is the dissociation constant. The variable $$n$$ is the Hill coefficient, which can be used to quantify the cooperativity of the reaction. If $$n = 1$$, then there is no cooperativity present, and the equation is equal to the model we presented above [3]. 
 
 The Hill equation fits experimental data nicely, but it brings up some interesting questions. For example, the Hill equation assumes that four oxygen molecules are simultaneously binding with the hemoglobin protein, but that’s a pretty unreasonable assumption [1]. So what, exactly, does the cooperativity look like? How is the binding of multiple oxygen molecules to the hemoglobin protein making the later binding events “easier”? 
 
