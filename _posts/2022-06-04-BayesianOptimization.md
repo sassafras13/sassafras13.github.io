@@ -25,7 +25,9 @@ Once we have defined the surrogate and acquisition functions, we can use them in
 
 1. Iterate for $$t = 1, 2, …, T$$ steps for sampled points, $$(\mathbf{x}, y)$$, that are added to the set $$\mathcal{D}_{1:t-1}$$.    
 
-2. Select the next point to sample, $$\mathbf{x}_t$$, by finding the argmax of the acquisition function, i.e. $$\mathbf{x}_t = \argmax_{\mathbf{x}} u(\mathbf{x} \| \mathcal{D}_{1:t-1})$$.    
+2. Select the next point to sample, $$\mathbf{x}_t$$, by finding the argmax of the acquisition function, i.e.:
+
+$$\mathbf{x}_t = \text{argmax}_{\mathbf{x}} u(\mathbf{x} | \mathcal{D}_{1:t-1})$$.    
 
 3. Sample the objective function at this point: $$y_t = f(\mathbf{x}_t)$$. Add this sample to the set, $$\mathcal{D}_{1:t} = \{\mathcal{D}_{1:t-1}, (\mathbf{x}_t, y_t)\}$$.   
 
