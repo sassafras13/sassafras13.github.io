@@ -180,6 +180,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Bayesian Optimization for Beginners](https://sassafras13.github.io/BayesianOptimization/)
 
+* [A Brief Survey of Machine Learning Regression Models](https://sassafras13.github.io/RegressionModels/)
+
 #### Variational Autoencoders
 
 * [ML Bonanza Episode 1 - Basics of VAEs](https://sassafras13.github.io/VAE/)
