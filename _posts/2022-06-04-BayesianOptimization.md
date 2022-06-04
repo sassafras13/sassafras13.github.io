@@ -25,7 +25,7 @@ Once we have defined the surrogate and acquisition functions, we can use them in
 
 1. Iterate for $$t = 1, 2, …, T$$ steps for sampled points, $$(\mathbf{x}, y)$$, that are added to the set $$\mathcal{D}_{1:t-1}$$.    
 
-2. Select the next point to sample, $$\mathbf{x}_t$$, by finding the argmax of the acquisition function, i.e. $$\mathbf{x}_t = \argmax_{\mathbf{x}} u(\mathbf{x} | \mathcal{D}_{1:t-1})$$.    
+2. Select the next point to sample, $$\mathbf{x}_t$$, by finding the argmax of the acquisition function, i.e. $$\mathbf{x}_t = \argmax_{\mathbf{x}} u(\mathbf{x} \| \mathcal{D}_{1:t-1})$$.    
 
 3. Sample the objective function at this point: $$y_t = f(\mathbf{x}_t)$$. Add this sample to the set, $$\mathcal{D}_{1:t} = \{\mathcal{D}_{1:t-1}, (\mathbf{x}_t, y_t)\}$$.   
 
@@ -41,7 +41,7 @@ So our best guess at the objective function is represented by a GP, but what abo
 
 The EI approach balances exploitation and exploration as it recommends the next **query point**, $$\mathbf{x}_t$$. Specifically, the EI approach will select a query point either because it is bigger than the best value we have seen so far (exploitation) or because that point is in a region of high uncertainty (exploration). The expression for EI can be written as [3]:
 
-$$\mathbf{x}_{t+1} = \argmax_{\mathbf{x}} \mathbb{E} \left( \max \{ g_{t+1}(\mathbf{x}) - f(\mathbf{x}^+), 0 \} | \mathcal{D}_{1:t} \right)$$
+$$\mathbf{x}_{t+1} = \text{argmax}_{\mathbf{x}} \mathbb{E} \left( \max \{ g_{t+1}(\mathbf{x}) - f(\mathbf{x}^+), 0 \} | \mathcal{D}_{1:t} \right)$$
 
 Here, we are choosing the next query point, $$\mathbb{x}_{t+1}$$ as the value that maximizes the surrogate function, $$g_{t+1}(\mathbf{x})$$, compared to the best value that we’ve seen so far, represented by $$f(\mathbf{x}^+)$$. This choice is conditioned on all of the data we have to date, $$\mathcal{D}_{1:t}$$ [3]. 
 
@@ -51,7 +51,7 @@ $$EI(\mathbf{x}) = \begin{cases} (\mu_t(\mathbf{x}) - f(\mathbf{x}^+) - \zeta)\P
 
 Where $$\mu_t$$ and $$\sigma_t$$ are the mean and variance of the GP, and $$\Phi(Z)$$ and $$\phi(Z)$$ are the CDF and PDF of the GP, respectively. The first term represents the exploitation (because it drives the selection of the query point that maximizes the surrogate function) while the second term represents the exploration (because it favors selecting the query point that is in the area of greatest uncertainty, as represented by the variance, $$\sigma_t$$). The parameter $$\zeta$$ controls the trade-off between these two terms representing exploration and exploitation [1,3]. Finally, $$Z$$ is [1,3]:
 
-$$Z = \begin{cases} \frac{\mu_t(\mathbf{x}) - f(\mathbf{x}^+) - \zeta}{\sigma_t(\mathbf{x})}$$ & \text{if $\sigma_t(\mathbf{x}) > 0$} \\ 0 & \text{if $\sigma_t(\mathbf{x}) = 0$} \end{cases}$$
+$$Z = \begin{cases} \frac{\mu_t(\mathbf{x}) - f(\mathbf{x}^+) - \zeta}{\sigma_t(\mathbf{x})} & \text{if $\sigma_t(\mathbf{x}) > 0$} \\ 0 & \text{if $\sigma_t(\mathbf{x}) = 0$} \end{cases}$$
 
 This math is everything that is required to implement Bayesian optimization. Krasser presents a beautiful Colab notebook that implements the algorithm from scratch and plots the results in a highly intuitive manner. I recreate part of the key figure below but I would recommend exploring his [blog post](http://krasserm.github.io/2018/03/21/bayesian-optimization/) and accompanying notebook to get a better understanding of how the Bayesian optimization algorithm can unfold on an example system [1]. 
 
