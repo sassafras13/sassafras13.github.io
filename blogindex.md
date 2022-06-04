@@ -178,6 +178,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Review of "Scene Graph Generation by Iterative Message Passing" by Xu et al.](https://sassafras13.github.io/SceneGraphs/) 
 
+* [Bayesian Optimization for Beginners](https://sassafras13.github.io/BayesianOptimization/)
+
 #### Variational Autoencoders
 
 * [ML Bonanza Episode 1 - Basics of VAEs](https://sassafras13.github.io/VAE/)
