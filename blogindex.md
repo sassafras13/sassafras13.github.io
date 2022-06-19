@@ -217,6 +217,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Welcome to Factor Graphs](https://sassafras13.github.io/FactorGraphs/)
 
+* [Understanding Message Passing in GNNs](https://sassafras13.github.io/GNN/)
+
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
