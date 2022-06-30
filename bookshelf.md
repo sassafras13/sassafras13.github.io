@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Range: How Generalists Triumph in a Specialized World** by David Epstein
+
+* **Snuff** by Terry Pratchett
+
 * **Ring Shout** by P. Djeli Clark
 
 * **Anxious People** by Fredrik Backman
