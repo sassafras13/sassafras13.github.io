@@ -221,6 +221,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [Inference with Probabilistic Graphical Models](https://sassafras13.github.io/InferencePGMs/)
 
+* [Sampling Methods for Approximate Inference](https://sassafras13.github.io/Sampling/)
+
 ### Computing Tools
 
 * [Lessons in Writing Code, Part 1](https://sassafras13.github.io/LessonsInWritingCodePart1/)
