@@ -9,6 +9,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Entangled Life: How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures** by Merlin Sheldrake
+
+* **The Haunting of Tram Car 015** by P. Djeli Clark
+
 * **Range: How Generalists Triumph in a Specialized World** by David Epstein
 
 * **Snuff** by Terry Pratchett
