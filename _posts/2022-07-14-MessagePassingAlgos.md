@@ -52,7 +52,7 @@ $$m_{i \rightarrow j}(x_j) = \sum_{x_i} \phi(x_i) \phi(x_i, x_j) \prod_{l \in N(
 
 The product in the expression above is computed for all nodes that are neighbors of $$i$$ except for node $$j$$. This is exactly the same as the messages that we would pass in our conceptual discussion earlier. 
 
-## Max-Product Message Passing
+### Max-Product Message Passing
 
 The logic that applied to sum-product message passing still applies here because we can distribute max operators over products just as we can distribute sums over products. So if you want to compute the partition function of a chain Markov Random Field (MRF) model for the MAP inference [1]: 
 
