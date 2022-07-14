@@ -48,7 +48,7 @@ $$p(x_i) \propto \phi(x_i) \prod_{l \in N(i)} m_{l \rightarrow i} (x_i)$$
 
 Where $$m_{l \rightarrow i} (x_i)$$ is the message from node $$i$$ to node $$j$$, and it can be written as [1]:
 
-$$m_{i \rightarrow j}(x_j) = \sum_{x_i} \phi(x_i) \phi(x_i, x_j) \prod_{l \in N(i) \slash j} m_{l \rightarrow i}(x_i)$$
+$$m_{i \rightarrow j}(x_j) = \sum_{x_i} \phi(x_i) \phi(x_i, x_j) \prod_{l \in N(i) \backslash j} m_{l \rightarrow i}(x_i)$$
 
 The product in the expression above is computed for all nodes that are neighbors of $$i$$ except for node $$j$$. This is exactly the same as the messages that we would pass in our conceptual discussion earlier. 
 
@@ -105,7 +105,7 @@ The full JT algorithm assumes that we begin with a junction tree. We have cluste
 
 For each step in the algorithm, we choose two adjacent clusters, $$c^{(i)}$$ and $$c^{(j)}$$, in the tree and calculate a message to pass between them. Note that the scope of the message is the sepset $$S_{ij}$$ between the two clusters (i.e. the scope is the set of nodes that they have in common) [1]:
 
-$$m_{i \rightarrow j}(S_{ij}) = \sum_{x_c \slash S_{ij}} \phi_c (x_c) \prod_{l \in N(i) \slash j} m_{l \rightarrow i}(S_{li})$$
+$$m_{i \rightarrow j}(S_{ij}) = \sum_{x_c \backslash S_{ij}} \phi_c (x_c) \prod_{l \in N(i) \backslash j} m_{l \rightarrow i}(S_{li})$$
 
 Notice that $$c^{(i)}$$ cannot send this message until it has received all the messages from its neighbors except cluster $$c^{(j)}$$. After this algorithm finishes computing all the messages, we can define the **belief** of each cluster based on all the messages that it received [1]: 
 
@@ -113,7 +113,7 @@ $$\beta_c (x_c) = \phi_c (x_c) \prod_{l \in N(i)} m_{l \rightarrow i}(S_{li})$$
 
 This belief is proportional to the marginal probability over the scope of this particular cluster. So if we wanted the unnormalized probability $$\tilde{p}(x)$$ for some variable $$x \in x_c$$, we could marginalize out the other variables thus [1]: 
 
-$$\tilde{p}(x) = \sum_{x_c \slash x} \beta_c (x_c)$$
+$$\tilde{p}(x) = \sum_{x_c \backslash x} \beta_c (x_c)$$
 
 To normalize this probability, we can compute the partition function $$\mathcal{Z}$$ as the sum overall the beliefs in a cluster [1]:
 
