@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **A Black Women's History of the United States** by Daina Ramey Berry and Kali Nicole Gross   
+
 * **Entangled Life: How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures** by Merlin Sheldrake
 
 * **The Haunting of Tram Car 015** by P. Djeli Clark
