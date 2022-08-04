@@ -62,6 +62,8 @@ Short summaries on papers I read for fun and learning.
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [Dynamic Programming](https://sassafras13.github.io/DynamicProgramming/)
+
 * [Recursion(recursion)](https://sassafras13.github.io/recursion/)    
 
 * [Backtracking Algorithm](https://sassafras13.github.io/Backtracking/) 
