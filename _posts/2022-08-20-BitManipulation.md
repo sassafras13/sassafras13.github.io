@@ -24,7 +24,7 @@ Figure 1 - Source [1]
 
 Note that Python allows you to see how integers are represented in binary and other schemes. For example [1]:
 
-```
+```python3
 bin(42) = 0b101010 # 0b is the prefix indicating the representation is binary
 hex(42) = 0x2a # 0x is the prefix for the hexadecimal system
 oct(42) = 0o52 # 0o is the prefix for the octal system
@@ -38,7 +38,7 @@ Let’s understand what the two’s complement is. The definition of the two’s
 
 Put more generally, if we want to find the two’s complement of a negative integer $-K$, then we need to perform [2]:
 
-```
+```python3
 concat(1, 2**(N-1) - K)
 ```
 
@@ -93,7 +93,7 @@ Figure 7 - Source [1]
 
 There is another category of bitwise operations that shift binary numbers to the left and right. This is a very efficient way of manipulating numbers and can be used to make bitmasks, which we’ll discuss later. The left shift operator, ```<<```, moves the bits of the first operand as many places as specified in the second operand [1]. For example:
 
-```
+```python3
 1100101 << 2 = 110010100
 ```
 
@@ -115,7 +115,7 @@ So far, the left and right shifts we have discussed are called **logical shift o
 
 Bitmasks can be used to manipulate specific bits in a value. For example, you can force Python to represent the sign of an integer using the left-most bit by manipulating the integer with a **bitmask**. For example, if you perform the AND operation on an integer and a corresponding bitmask, you get the following [1]:
 
-```
+```python3
 mask = 0b11111111 # equivalent to 0xff
 bin(-42 & mask) = 0b11010110
 ```
@@ -126,20 +126,20 @@ Notice here how the bitmask is overlaid on top of the value in question to obtai
 
 If you want to read the bit at a specific position in a number, you can use a bitmask to obtain it as shown below [1]:
 
-```
+```python3
 def get_bit(value, bit_index):
-return value & (1 << bit_index)
-
+  return value & (1 << bit_index)
+  
 get_bit(0b10000000, bit_index=5) = 0
-
+  
 get_bit(0b10100000, bit_index=5) = 32
 ```
 
 Here, the bitmask is ```1``` shifted over by ```bit_index``` number of places. The function then returns the value (in base-10) of the bit at that index. If you wanted to get the normalized value (i.e. just a 1 or 0), then you could use this function instead [1]:
 
-```
+```python3
 def get_normalized_bit(value, bit_index):
-return (value >> bit_index) & 1
+  return (value >> bit_index) & 1
 ```
 
 Here we right-shift ```value``` until the bit in question is at the first position, and then we retrieve it using a bitmask of ```1```. 
@@ -148,18 +148,18 @@ Here we right-shift ```value``` until the bit in question is at the first positi
 
 You may also want to set the value of a specific bit, which you can do using a similar function to the one shown above, but using the logical OR operator instead of AND [1]:
 
-```
+```python3
 def set_bit(value, bit_index):
-return value | (1 << bit_index)
+  return value | (1 << bit_index)
 set_bit(0b10000000, bit_index=5) = 160
 bin(160) = '0b10100000'
 ```
 
 Since we are using the OR operator with 1 as the right operand, we are setting the bit at ```bit_index``` to have a value of 1 regardless of its current value. If you wanted to unset this value, you could do the inverse (i.e. use the NOT operator on the bitmask) [1]:
 
-```
+```python3
 def clear_bit(value, bit_index):
-return value & ~(1 << bit_index)
+  return value & ~(1 << bit_index)
 clear_bit(0b11111111, bit_index=5) = 223
 bin(223) = '0b11011111'
 ```
@@ -170,9 +170,9 @@ The NOT operator in Python always returns a negative number when given a positiv
 
 Finally, you can toggle a bit to have the opposite value to its current state using the XOR operator and a bitmask [1]:
 
-```
+```python3
 def toggle_bit(value, bit_index):
-return value ^ (1 << bit_index)
+  return value ^ (1 << bit_index)
 ```
 
 ## Conclusion
