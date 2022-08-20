@@ -19,7 +19,7 @@ Before we move on to talk about bitwise operators, I want to cover some importan
 
 It is also possible to distinguish between positive and negative numbers in binary. Typically, this is done using an extra bit at the far left of the byte which is 0 for positive values and 1 for negative values. This is shown in Figure 1. Note that Python does not follow this convention, however, and so that affects some of the bitwise operators we will see in the next section. Specifically, Python allows for using an unlimited number of bits to represent an integer, so this forces it to use a different method for representing the corresponding sign of the integer [1]. 
 
-![Fig 1]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig0.png "Figure 1"){:width=75%}   
+![Fig 1]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig0.png "Figure 1"){:width=75%}   
 Figure 1 - Source [1]     
 
 Note that Python allows you to see how integers are represented in binary and other schemes. For example [1]:
@@ -51,12 +51,12 @@ Another way to find the two’s complement of a negative integer is to [2]:
 
 We can operate on individual bits using a number of different logical operators in Python. A summary of some of the common operators is shown in Figure 2. Most of the operators (with the exception of the NOT operator) are **binary**, which means that they compare the left **operand** to the right operand - for example they determine if _a_ and _b_ are true. The bitwise NOT operator is a **unary** operator since it only takes in one operand [1]. 
 
-![Fig 2]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig1.png "Figure 2"){:width=75%}   
+![Fig 2]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig1.png "Figure 2"){:width=75%}   
 Figure 2 - Source [1]    
 
 All of the binary bitwise operators have an accompanying **compound operator**, as shown in Figure 3 [1]. The compound operator performs the bitwise operation, and then assigns the result of that operation to the left operand. I find that the compound operator reminds me of incrementing a variable: ```i += 1``` because I am taking the variable ```i```, adding 1, and assigning the new value to ```i```. 
 
-![Fig 3]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig2.png "Figure 3"){:width=75%}   
+![Fig 3]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig2.png "Figure 3"){:width=75%}   
 Figure 3 - Source [1]    
 
 Let’s explore some of these operators in more detail. I would also recommend heading over to [1] to see some very helpful GIFs that make it easy to visualize what these operators are doing. 
@@ -65,28 +65,28 @@ Let’s explore some of these operators in more detail. I would also recommend h
 
 The bitwise AND operator compares two operands and returns a 1 any time the bit in the same position in both operands is on. Otherwise, it returns 0 [1]. An example of this is shown in Figure 4. 
 
-![Fig 4]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig3.png "Figure 4"){:width=75%}   
+![Fig 4]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig3.png "Figure 4"){:width=75%}   
 Figure 4 - Source [1]    
 
 ### OR
 
 The bitwise OR operator returns a 1 any time at least one of the operands has a 1 in a given position. The OR operator only returns 0 if both bits (from each operand) are zero [1]. This is shown in Figure 5. 
 
-![Fig 5]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig4.png "Figure 5"){:width=75%}   
+![Fig 5]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig4.png "Figure 5"){:width=75%}   
 Figure 5 - Source [1]    
 
 ### XOR
 
 Interestingly, Python does not natively support the XOR operator. XOR stands for “exclusive or.” The XOR operator returns a 1 if the two operands have different values at the same bit position. It basically tells us when two operands represent two mutually exclusive cases. For example, XOR would return a 1 if one operand had a value of 0 and the other had a value of 1. If both operands have the same value, then XOR returns 0 [1]. This is shown in Figure 6. 
 
-![Fig 6]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig5.png "Figure 6"){:width=75%}   
+![Fig 6]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig5.png "Figure 6"){:width=75%}   
 Figure 6 - Source [1]    
 
 ### NOT
 
 Finally, the NOT operator simply reverses the value of every bit in the operand. However, it is worth noting that the NOT operator does not always work as expected in Python, because Python uses unsigned integers [1]. For now, admire this image depicting how the NOT operator works. 
 
-![Fig 7]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig6.png "Figure 7"){:width=75%}   
+![Fig 7]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig6.png "Figure 7"){:width=75%}   
 Figure 7 - Source [1]    
 
 ### Shift Operators
@@ -99,12 +99,12 @@ There is another category of bitwise operations that shift binary numbers to the
 
 Every time we shift the operand one place to the left, we double its value, as shown in the table below. Bit shifting in this way used to be a popular way to quickly compute products or exponents, but Python is now very efficient and doing this bit manipulation manually is unnecessary. Notice also that Python is intelligent enough to know that if you shift the first operand to a size greater than a byte (8 bits) that we should increase the storage size of that number so we can represent it accurately. However, other languages may not do this and so you might find that you shift a value to the left and some of the bits are chopped off, returning a smaller value than you wanted [1]. 
 
-![Fig 8]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig7.png "Figure 8"){:width=75%}   
+![Fig 8]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig7.png "Figure 8"){:width=75%}   
 Figure 8 - Source [1]    
 
 Shifting values to the right instead of the left is the same operation, but now every time you shift the bits one place, the value of the number is halved instead of doubled, as shown in Figure 9. Notice also that when shifting (i.e. dividing) an odd number, the value is rounded down to the nearest integer (i.e. we do floor division) [1].
 
-![Fig 9]({{ site.baseurl }}/images/2022-08-20-BitManipulation-fig8.png "Figure 9"){:width=75%}   
+![Fig 9]({{ site.baseurl }}/images/2022-08-13-BitManipulation-fig8.png "Figure 9"){:width=75%}   
 Figure 9 - Source [1]    
 
 One thing to notice here is that the right shift operator can affect the sign of a number. Recall that the left-most bit is often used to convey the sign of the number the byte represents, and so if you right shift the bits, the left-most bit always becomes a 0 [1]. 
