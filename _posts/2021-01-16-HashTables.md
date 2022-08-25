@@ -3,7 +3,7 @@ title: Making a Hash of Hash Tables
 layout: post
 ---
 
-Welcome back to another blog post about computer science basics by a wannabe coder. This time we are going to talk about hash tables, which Gayle Laakmann McDowell says is one of the most important topics to know for a coding interview [1]. This post will be heavily influenced by Davide Mastromatteo’s excellent article on the subject [2]. We’ll talk about why hash tables are useful, what hash functions are, and how common problems with hash tables, like collisions, can be managed. You can also see an implementation of hash tables in Python (drawing heavily from [7]) [here](https://github.com/sassafras13/coding-interview/tree/main/hash-tables). Let’s get started!
+Welcome back to another blog post about computer science basics by a wannabe coder. This time we are going to talk about hash tables, which Gayle Laakmann McDowell says is one of the most important topics to know for a coding interview [1]. This post will be heavily influenced by Davide Mastromatteo’s excellent article on the subject [2]. We’ll talk about why hash tables are useful, what hash functions are, and how common problems with hash tables, like collisions, can be managed. You can also see an implementation of hash tables in Python (drawing heavily from [7]) [here](https://github.com/sassafras13/coding-interview/blob/main/fundamentals/hash-tables/hash_table.py). Let’s get started!
 
 ## What are Hash Tables?
 
