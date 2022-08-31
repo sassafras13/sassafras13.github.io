@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Superpower: One Man's Quest to Transform American Energy** by Russell Gold
+
 * **The Left Hand of Darkness** by Ursula K. Le Guin
 
 * **A Black Women's History of the United States** by Daina Ramey Berry and Kali Nicole Gross   
