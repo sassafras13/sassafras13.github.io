@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **Electrify: An Optimist's Playbook for our Clean Energy Future** by Saul Griffith
+
 * **Superpower: One Man's Quest to Transform American Energy** by Russell Gold
 
 * **The Left Hand of Darkness** by Ursula K. Le Guin
