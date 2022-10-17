@@ -3,7 +3,7 @@ title: Basic Search and Sort Algorithms
 layout: post
 ---
 
-In this post we are going to cover a couple of fundamental algorithms, including a common search algorithm known as **binary search**, as well as two sorting methods, **merge sort** and **quick sort** [1]. For each algorithm, we will talk through how they work and some details on runtime. If you are looking for some example code, please see my implementations for  [binary sort](https://github.com/sassafras13/coding-interview/tree/main/binary-search), taken from [2], [merge sort](https://github.com/sassafras13/coding-interview/tree/main/merge-sort) taken from [3] and [quick sort](https://github.com/sassafras13/coding-interview/tree/main/quick-sort) taken from [4].  
+In this post we are going to cover a couple of fundamental algorithms, including a common search algorithm known as **binary search**, as well as two sorting methods, **merge sort** and **quick sort** [1]. For each algorithm, we will talk through how they work and some details on runtime. If you are looking for some example code, please see my implementations for  [binary sort](https://github.com/sassafras13/coding-interview/blob/main/fundamentals/binary-search/binary-search-v1.py), taken from [2], [merge sort](https://github.com/sassafras13/coding-interview/blob/main/fundamentals/merge-sort/merge-sort-v1.py) taken from [3] and [quick sort](https://github.com/sassafras13/coding-interview/blob/main/fundamentals/quick-sort/quick-sort-v1.py) taken from [4].  
 
 ## Binary Search
 
