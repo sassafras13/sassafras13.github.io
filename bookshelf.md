@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **The Grid: The Fraying Wires Between Americans and Our Energy Future** by Gretchen Bakke, PhD
+
 * **System Design Interview** by Alex Xu
 
 * **Electrify: An Optimist's Playbook for our Clean Energy Future** by Saul Griffith
