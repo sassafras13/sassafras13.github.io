@@ -9,6 +9,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2022
 
+* **The Parable of the Sower** by Octavia E. Butler
+
 * **The Grid: The Fraying Wires Between Americans and Our Energy Future** by Gretchen Bakke, PhD
 
 * **System Design Interview** by Alex Xu
