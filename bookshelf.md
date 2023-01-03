@@ -7,6 +7,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 **Update 7 June 2020:** I wanted to call myself out for having a list that is dominated by white male authors. In fact, the only books on this list that are not written by white men were given to me by a good friend of mine who is much more aware of _who_ writes the books that she reads than I am. I am calling attention to this fact because I am going to change my reading habits to focus especially on BIPOC writers. I will be drawing heavily from books on [this list](https://www.latimes.com/entertainment-arts/books/story/2020-06-04/13-nonfiction-books-to-read-during-george-floyd-protests) and others - I am always open to recommendations. 
 
+## 2023
+
+* **The Parable of the Talents** by Octavia E. Butler
+
 ## 2022
 
 * **The Parable of the Sower** by Octavia E. Butler
