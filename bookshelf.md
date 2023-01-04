@@ -5,9 +5,9 @@ permalink: /bookshelf/
 ---
 This page lists the books I have read and, occasionally, some reflections on what they taught me. Reading is one of my favorite ways to learn something new and see the world through other peoples' eyes. 
 
-**Update 7 June 2020:** I wanted to call myself out for having a list that is dominated by white male authors. In fact, the only books on this list that are not written by white men were given to me by a good friend of mine who is much more aware of _who_ writes the books that she reads than I am. I am calling attention to this fact because I am going to change my reading habits to focus especially on BIPOC writers. I will be drawing heavily from books on [this list](https://www.latimes.com/entertainment-arts/books/story/2020-06-04/13-nonfiction-books-to-read-during-george-floyd-protests) and others - I am always open to recommendations. 
-
 ## 2023
+
+* **The Library at Mount Char** by Scott Hawkins
 
 * **The Parable of the Talents** by Octavia E. Butler
 
@@ -108,6 +108,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 * **A Promised Land** by Barack Obama
 
 * **The Fifth Season** by N.K. Jemisin (I loved this book so much that I put the sequel on reserve in the library before I even reached the end!)
+
+**Update 7 June 2020:** I wanted to call myself out for having a list that is dominated by white male authors. In fact, the only books on this list that are not written by white men were given to me by a good friend of mine who is much more aware of _who_ writes the books that she reads than I am. I am calling attention to this fact because I am going to change my reading habits to focus especially on BIPOC writers. I will be drawing heavily from books on [this list](https://www.latimes.com/entertainment-arts/books/story/2020-06-04/13-nonfiction-books-to-read-during-george-floyd-protests) and others - I am always open to recommendations. 
 
 ## 2020
 
