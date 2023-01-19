@@ -7,6 +7,8 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2023
 
+* **The Pragmatic Programmer** by David Thomas and Andrew Hunt
+
 * **The Library at Mount Char** by Scott Hawkins
 
 * **The Parable of the Talents** by Octavia E. Butler
