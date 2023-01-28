@@ -62,6 +62,8 @@ Short summaries on papers I read for fun and learning.
 ### CS Coding Interview
 Posts on topics that are commonly tested in a coding interview.
 
+* [A Framework for Solving Dynamic Programming Problems](https://sassafras13.github.io/SolvingDPProblems/)
+
 * [Kadane's Algorithm](https://sassafras13.github.io/KadanesAlgo/)
 
 * [Bit Manipulation](https://sassafras13.github.io/BitManipulation/)
