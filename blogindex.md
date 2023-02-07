@@ -28,6 +28,8 @@ This index groups my posts by themes so you can find what you are looking for mo
 
   * [Probabilistic Graphical Models](#probabilistic-graphical-models)
 
+  * [Time Series Forecasting](#time-series-forecasting)
+
 * [Computing Tools](#computing-tools)
 
 * [DNA Nanotechnology](#dna-nanotechnology)
@@ -232,6 +234,10 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 * [Sampling Methods for Approximate Inference](https://sassafras13.github.io/Sampling/)  
 
 * [Message Passing Algorithms](https://sassafras13.github.io/MessagePassingAlgos/)
+
+#### Time Series Forecasting
+
+* [A Brief Introduction to Time Series Forecasting](https://sassafras13.github.io/BasicsTimeSeries/)
 
 ### Computing Tools
 
