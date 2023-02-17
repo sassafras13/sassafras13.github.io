@@ -303,6 +303,8 @@ For someone who works with DNA, I know an embarassingly small amount about this 
 
 * [A Review of the Fundamentals of Statistics](https://sassafras13.github.io/StatsBasics/)
 
+* [Common Statistical Hypothesis Tests](https://sassafras13.github.io/StatsTests/)
+
 
 ### Control Theory
 
