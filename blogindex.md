@@ -237,6 +237,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 #### Time Series Forecasting
 
+* [Performing an EDA, with a Focus on Correlation, for Time Series Forecasting](https://sassafras13.github.io/EDA/)
+
 * [A Brief Introduction to Time Series Forecasting](https://sassafras13.github.io/BasicsTimeSeries/)
 
 ### Computing Tools
