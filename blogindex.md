@@ -237,6 +237,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 #### Time Series Forecasting
 
+* [Using the ARIMA Model for Forecasting](https://sassafras13.github.io/ARIMA/)
+
 * [Using ML Models for Time Series Forecasting](https://sassafras13.github.io/TimeSeriesForecastingML/)
 
 * [Performing an EDA, with a Focus on Correlation, for Time Series Forecasting](https://sassafras13.github.io/EDA/)
