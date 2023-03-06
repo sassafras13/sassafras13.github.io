@@ -7,6 +7,10 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 ## 2023
 
+* **Ace the Data Science Interview** by Kevin Huo and Nick Singh
+
+* **Modern Time Series Forecasting with Python** by Manu Joseph
+
 * **The Pragmatic Programmer** by David Thomas and Andrew Hunt
 
 * **The Library at Mount Char** by Scott Hawkins
