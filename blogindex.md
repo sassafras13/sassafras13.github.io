@@ -265,6 +265,8 @@ Posts that I wrote to teach myself about ideas in ML and AI.
 
 * [ODE Solvers in MATLAB](https://sassafras13.github.io/ODEsolvers/)
 
+* [A High-Level Overview of Cloud Computing](https://sassafras13.github.io/GCP/) 
+
 
 ### DNA Nanotechnology
 For someone who works with DNA, I know an embarassingly small amount about this amazing molecule. Read these to learn the basics and maybe even some cool stuff about DNA nanotechnology. 
