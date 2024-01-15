@@ -23,11 +23,15 @@ This page lists the books I have read and, occasionally, some reflections on wha
 
 * **The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race** by Walter Isaacson
 
+* **Tomorrow, and Tomorrow, and Tomorrow** by Gabrielle Zevin
+
 * **The Kaiju Preservation Society** by John Scalzi
 
 * **Not Quite White** by Laila Woozeer
 
 * **Cloud Cuckoo Land** by Anthony Doerr
+
+* **The Atlas of the Heart** by Brene Brown
 
 * **Ancillary Mercy** by Ann Leckie
   
