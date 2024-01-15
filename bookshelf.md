@@ -5,7 +5,35 @@ permalink: /bookshelf/
 ---
 This page lists the books I have read and, occasionally, some reflections on what they taught me. Reading is one of my favorite ways to learn something new and see the world through other peoples' eyes. 
 
+## 2024
+* **The Ministry for the Future** by Kim Stanley Robinson
+
 ## 2023
+* **Your Invisible Network: How to Create, Maintain, and Leverage the Relationships That Will Transform Your Career** by Michael Urtuzuástegui Melcher
+
+* **The Last Emperox** by John Scalzi
+
+* **The Consuming Fire** by John Scalzi
+
+* **The Collapsing Empire** by John Scalzi
+
+* **The Seven Husbands of Evelyn Hugo** by Taylor Jenkins Reid
+
+* **The Song of the Cell** by Siddhartha Mukherjee
+
+* **The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race** by Walter Isaacson
+
+* **The Kaiju Preservation Society** by John Scalzi
+
+* **Not Quite White** by Laila Woozeer
+
+* **Cloud Cuckoo Land** by Anthony Doerr
+
+* **Ancillary Mercy** by Ann Leckie
+  
+* **Ancillary Sword** by Ann Leckie
+
+* **Ancillary Justice** by Ann Leckie. I listened to the audiobooks for all three of the books in this series, as read by Adjoa Andoh. They were so compellingly written, and Andoh's narration was so engrossing, that as soon as I finished the first book I went back to the beginning and started it again!
 
 * **Ace the Data Science Interview** by Kevin Huo and Nick Singh
 
