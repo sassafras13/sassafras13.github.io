@@ -6,7 +6,7 @@
 name: Emma Benjaminson
 
 # Short bio or description (displayed in the header)
-description: Mechanical Engineering Graduate Student
+description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/sassafras13/sassafras13.github.io/master/images/EmmaProfilePic.jpg
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-139211006-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
