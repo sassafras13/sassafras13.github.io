@@ -6,6 +6,8 @@ permalink: /bookshelf/
 This page lists the books I have read and, occasionally, some reflections on what they taught me. Reading is one of my favorite ways to learn something new and see the world through other peoples' eyes. 
 
 ## 2024
+* **Making It So** by Patrick Stewart
+
 * **The Ministry for the Future** by Kim Stanley Robinson
 
 ## 2023
