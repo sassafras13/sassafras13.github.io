@@ -404,9 +404,7 @@ Posts written while contemplating various social issues.
 * [COVID-19](https://sassafras13.github.io/Covid19/)
 
 * [Book Reviews from 2019](https://sassafras13.github.io/BookReviews/)
-
-* [Why AOC's Shoes Matter (or What it's Like to Phone Bank for Joe Biden)](https://sassafras13.github.io/PhoneBank/)
-
+  
 
 ### Miscellaneous
 I couldn't fit these posts into any other category. 
